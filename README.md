@@ -10,8 +10,6 @@
 
 <div align="center">
 
-[中文](./README.md) | [English](./i18n/en/README.md)
-
 # Vibe Coding 指南
 
 **一个通过与 AI 结对编程，将想法变为现实的终极工作站**
@@ -33,25 +31,25 @@
 <!-- 资源直达 - 按重要性分组 -->
 <!-- 🔴 核心理念 (红色系) -->
 <p>
-  <a href="./i18n/zh/documents/-01-哲学与方法论/README.md"><img src="https://img.shields.io/badge/🔮_哲学方法论-底层协议-purple?style=for-the-badge" alt="哲学与方法论"></a>
-  <a href="./i18n/zh/documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md"><img src="https://img.shields.io/badge/🧠_核心哲学-必读-crimson?style=for-the-badge" alt="核心哲学"></a>
-  <a href="./i18n/zh/documents/00-基础指南/胶水编程.md"><img src="https://img.shields.io/badge/🧬_胶水编程-银弹-red?style=for-the-badge" alt="胶水编程"></a>
-  <a href="./i18n/zh/documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md"><img src="https://img.shields.io/badge/🎨_Canvas白板-图形驱动-orange?style=for-the-badge" alt="Canvas白板驱动开发"></a>
-  <a href="./i18n/zh/documents/01-入门指南/README.md"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
-  <a href="./i18n/zh/documents/00-基础指南/血的教训.md"><img src="https://img.shields.io/badge/🩸_血的教训-必看-red?style=for-the-badge" alt="血的教训"></a>
-  <a href="./i18n/zh/documents/00-基础指南/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
-  <a href="./i18n/zh/documents/00-基础指南/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
-  <a href="./i18n/zh/documents/00-基础指南/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
-  <a href="./i18n/zh/documents/04-资源/外部资源聚合.md"><img src="https://img.shields.io/badge/📡_信息源-聚合-teal?style=for-the-badge" alt="信息源聚合"></a>
-  <a href="./i18n/zh/documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md"><img src="https://img.shields.io/badge/📐_元方法论-递归优化-darkorange?style=for-the-badge" alt="元方法论"></a>
-  <a href="./i18n/zh/documents/00-基础指南/编程之道.md"><img src="https://img.shields.io/badge/🧭_编程之道-道法术-orange?style=for-the-badge" alt="编程之道"></a>
-  <a href="./i18n/zh/documents/03-实战/README.md"><img src="https://img.shields.io/badge/🎬_实战案例-项目实操-orange?style=for-the-badge" alt="实战案例"></a>
-  <a href="./i18n/zh/documents/04-资源/工具集.md"><img src="https://img.shields.io/badge/🛠️_工具集-速查-teal?style=for-the-badge" alt="工具集"></a>
-  <a href="./i18n/zh/prompts/"><img src="https://img.shields.io/badge/💬_提示词-精选-purple?style=for-the-badge" alt="提示词精选"></a>
-  <a href="./i18n/zh/skills/"><img src="https://img.shields.io/badge/⚡_Skills-技能大全-forestgreen?style=for-the-badge" alt="skills技能大全"></a>
+  <a href="./documents/05-哲学与方法论/README.md"><img src="https://img.shields.io/badge/🔮_哲学方法论-底层协议-purple?style=for-the-badge" alt="哲学与方法论"></a>
+  <a href="./documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md"><img src="https://img.shields.io/badge/🧠_核心哲学-必读-crimson?style=for-the-badge" alt="核心哲学"></a>
+  <a href="./documents/00-基础指南/胶水编程.md"><img src="https://img.shields.io/badge/🧬_胶水编程-银弹-red?style=for-the-badge" alt="胶水编程"></a>
+  <a href="./documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md"><img src="https://img.shields.io/badge/🎨_Canvas白板-图形驱动-orange?style=for-the-badge" alt="Canvas白板驱动开发"></a>
+  <a href="./documents/01-入门指南/README.md"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
+  <a href="./documents/00-基础指南/血的教训.md"><img src="https://img.shields.io/badge/🩸_血的教训-必看-red?style=for-the-badge" alt="血的教训"></a>
+  <a href="./documents/00-基础指南/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
+  <a href="./documents/00-基础指南/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
+  <a href="./documents/00-基础指南/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
+  <a href="./documents/04-资源/外部资源聚合.md"><img src="https://img.shields.io/badge/📡_信息源-聚合-teal?style=for-the-badge" alt="信息源聚合"></a>
+  <a href="./documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md"><img src="https://img.shields.io/badge/📐_元方法论-递归优化-darkorange?style=for-the-badge" alt="元方法论"></a>
+  <a href="./documents/00-基础指南/编程之道.md"><img src="https://img.shields.io/badge/🧭_编程之道-道法术-orange?style=for-the-badge" alt="编程之道"></a>
+  <a href="./documents/03-实战/README.md"><img src="https://img.shields.io/badge/🎬_实战案例-项目实操-orange?style=for-the-badge" alt="实战案例"></a>
+  <a href="./documents/04-资源/工具集.md"><img src="https://img.shields.io/badge/🛠️_工具集-速查-teal?style=for-the-badge" alt="工具集"></a>
+  <a href="./prompts/"><img src="https://img.shields.io/badge/💬_提示词-精选-purple?style=for-the-badge" alt="提示词精选"></a>
+  <a href="./skills/"><img src="https://img.shields.io/badge/⚡_Skills-技能大全-forestgreen?style=for-the-badge" alt="skills技能大全"></a>
   <a href="https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203"><img src="https://img.shields.io/badge/📋_提示词-在线表格-blue?style=for-the-badge" alt="提示词在线表格"></a>
   <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"><img src="https://img.shields.io/badge/🔧_系统提示词-仓库-slateblue?style=for-the-badge" alt="系统提示词仓库"></a>
-  <a href="./libs/external/chat-vault/README_CN.md"><img src="https://img.shields.io/badge/🔐_Chat_Vault-AI会话库-gold?style=for-the-badge" alt="Chat Vault"></a>
+  <a href="./libs/external/chat-vault/README.md"><img src="https://img.shields.io/badge/🔐_Chat_Vault-AI会话库-gold?style=for-the-badge" alt="Chat Vault"></a>
 </p>
 
 [📋 工具资源](#-器-工具与资源)
@@ -109,11 +107,11 @@
 
 完全新手？按顺序完成以下步骤：
 
-0. [00-Vibe Coding 哲学原理](./i18n/zh/documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md) - 理解核心理念
-1. [01-网络环境配置](./i18n/zh/documents/01-入门指南/01-网络环境配置.md) - 配置网络访问
-2. [02-开发环境搭建](./i18n/zh/documents/01-入门指南/02-开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
-3. [03-IDE配置](./i18n/zh/documents/01-入门指南/03-IDE配置.md) - 配置 VS Code 编辑器
-4. [04-OpenCode-CLI配置](./i18n/zh/documents/01-入门指南/04-OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
+0. [00-Vibe Coding 哲学原理](./documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md) - 理解核心理念
+1. [01-网络环境配置](./documents/01-入门指南/01-网络环境配置.md) - 配置网络访问
+2. [02-开发环境搭建](./documents/01-入门指南/02-开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
+3. [03-IDE配置](./documents/01-入门指南/03-IDE配置.md) - 配置 VS Code 编辑器
+4. [04-OpenCode-CLI配置](./documents/01-入门指南/04-OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
 
 ---
 
@@ -132,7 +130,7 @@
 
 **核心理念**：能抄不写，能连不造，能复用不原创。
 
-👉 [深入了解胶水编程](./i18n/zh/documents/00-基础指南/胶水编程.md)
+👉 [深入了解胶水编程](./documents/00-基础指南/胶水编程.md)
 
 </details>
 
@@ -153,7 +151,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心理念**：图形是第一公民，代码是白板的序列化形式。
 
-👉 [深入了解Canvas白板驱动开发](./i18n/zh/documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md)
+👉 [深入了解Canvas白板驱动开发](./documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md)
 
 </details>
 
@@ -174,7 +172,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心突破**：AI 不再是孤立的，而是可以互相感知、通讯、控制的集群。
 
-👉 [深入了解AI蜂群协作](./i18n/zh/documents/02-方法论/AI蜂群协作-tmux多Agent协作系统.md)
+👉 [深入了解AI蜂群协作](./documents/02-方法论/AI蜂群协作-tmux多Agent协作系统.md)
 
 </details>
 
@@ -195,7 +193,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心理念**：哲学不是空谈，是可落地的工程方法。
 
-👉 [深入了解哲学方法论工具箱](./i18n/zh/documents/-01-哲学与方法论/README.md)
+👉 [深入了解哲学方法论工具箱](./documents/05-哲学与方法论/README.md)
 
 </details>
 
@@ -215,7 +213,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 该思想的核心是构建一个能够**自我优化**的 AI 系统。其递归本质可分解为以下步骤：
 
-> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./i18n/zh/documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
+> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
 
 #### 1. 定义核心角色：
 
@@ -300,16 +298,16 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 ### AI 模型 & 服务
 
-*   [**Claude Opus 4.5**](https://claude.ai/new): 性能强大的 AI 模型，通过 Claude Code 等平台提供服务，并支持 CLI 和 IDE 插件。
-*   [**gpt-5.1-codex.1-codex (xhigh)**](https://chatgpt.com/codex/): 适用于处理大型项目和复杂逻辑的 AI 模型，可通过 Codex CLI 等平台使用。
-*   [**Droid**](https://factory.ai/news/terminal-bench): 提供对 Claude Opus 4.5 等多种模型的 CLI 访问。
-*   [**Kiro**](https://kiro.dev/): 目前提供免费的 Claude Opus 4.5 模型访问，并提供客户端及 CLI 工具。
+*   [**Claude Opus 4.6**](https://claude.ai/new): 性能强大的 AI 模型，通过 Claude Code 等平台提供服务，并支持 CLI 和 IDE 插件。
+*   [**gpt-5.3-codex (xhigh)**](https://chatgpt.com/codex/): 适用于处理大型项目和复杂逻辑的 AI 模型，可通过 Codex CLI 等平台使用。
+*   [**Droid**](https://factory.ai/news/terminal-bench): 提供对 Claude Opus 4.6 等多种模型的 CLI 访问。
+*   [**Kiro**](https://kiro.dev/): 目前提供免费的 Claude Opus 4.6 模型访问，并提供客户端及 CLI 工具。
 *   [**Gemini CLI**](https://geminicli.com/): 提供对 Gemini 模型的免费访问，适合执行脚本、整理文档和探索思路。
-*   [**antigravity**](https://antigravity.google/): 目前由 Google 提供的免费 AI 服务，支持使用 Claude Opus 4.5 和 Gemini 3.0 Pro。
+*   [**antigravity**](https://antigravity.google/): 目前由 Google 提供的免费 AI 服务，支持使用 Claude Opus 4.6 和 Gemini 3.0 Pro。
 *   [**AI Studio**](https://aistudio.google.com/prompts/new_chat): Google 提供的免费服务，支持使用 Gemini 3.0 Pro 和 Nano Banana。
 *   [**Gemini Enterprise**](https://cloud.google.com/gemini-enterprise): 面向企业用户的 Google AI 服务，目前可以免费使用。
 *   [**GitHub Copilot**](https://github.com/copilot): 由 GitHub 和 OpenAI 联合开发的 AI 代码补全工具。
-*   [**Kimi K2**](https://www.kimi.com/): 一款国产 AI 模型，适用于多种常规任务。
+*   [**Kimi K2.5**](https://www.kimi.com/): 一款国产 AI 模型，适用于多种常规任务。
 *   [**GLM**](https://bigmodel.cn/): 由智谱 AI 开发的国产大语言模型。
 *   [**Qwen**](https://qwenlm.github.io/qwen-code-docs/zh/cli/): 由阿里巴巴开发的 AI 模型，其 CLI 工具提供免费使用额度。
 
@@ -330,12 +328,12 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 *   [**第三方系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): 用于学习和参考其他 AI 工具的系统提示词。
 *   [**Skills 制作器**](https://github.com/yusufkaraaslan/Skill_Seekers): 可根据需求生成定制化 Skills 的工具。
 *   [**元提示词**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): 用于生成提示词的高级提示词。
-*   [**通用项目架构模板**](./i18n/zh/documents/00-基础指南/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
-*   [**元技能：Skills 的 Skills**](./i18n/zh/skills/00-元技能/claude-skills/SKILL.md): 用于生成 Skills 的元技能。
-*   [**SOP 生成 Skill**](./i18n/zh/skills/00-元技能/sop-generator/SKILL.md): 将资料/需求整理为可执行 SOP 的技能。
-*   [**tmux快捷键大全**](./i18n/zh/documents/02-方法论/tmux快捷键大全.md): tmux 的快捷键参考文档。
-*   [**LazyVim快捷键大全**](./i18n/zh/documents/02-方法论/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
-*   [**手机远程 Vibe Coding**](./i18n/zh/documents/02-方法论/关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md): 基于 frp 实现手机 SSH 远程控制本地电脑进行 Vibe Coding。
+*   [**通用项目架构模板**](./documents/00-基础指南/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
+*   [**元技能：Skills 的 Skills**](./skills/skills-skills/SKILL.md): 用于生成 Skills 的元技能。
+*   [**SOP 生成 Skill**](./skills/sop-generator/SKILL.md): 将资料/需求整理为可执行 SOP 的技能。
+*   [**tmux快捷键大全**](./documents/02-方法论/tmux快捷键大全.md): tmux 的快捷键参考文档。
+*   [**LazyVim快捷键大全**](./documents/02-方法论/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
+*   [**手机远程 Vibe Coding**](./documents/02-方法论/关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md): 基于 frp 实现手机 SSH 远程控制本地电脑进行 Vibe Coding。
 
 ### 外部教程与资源
 
@@ -349,16 +347,16 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 ### 项目内部文档
 
-*   [**胶水编程 (Glue Coding)**](./i18n/zh/documents/00-基础指南/): 软件工程的圣杯与银弹，Vibe Coding 的终极进化形态。
+*   [**胶水编程 (Glue Coding)**](./documents/00-基础指南/): 软件工程的圣杯与银弹，Vibe Coding 的终极进化形态。
 *   [**Chat Vault**](./libs/external/chat-vault/): AI 聊天记录保存工具，支持 Codex/Kiro/Gemini/Claude CLI。
 *   [**prompts-library 工具说明**](./libs/external/prompts-library/): 支持 Excel 与 Markdown 格式互转，包含数百个精选提示词。
-*   [**编程提示词集合**](./i18n/zh/prompts/02-编程提示词/): 适用于 Vibe Coding 流程的专用提示词。
-*   [**系统提示词构建原则**](./i18n/zh/documents/00-基础指南/系统提示词构建原则.md): 构建高效 AI 系统提示词的综合指南。
-*   [**开发经验总结**](./i18n/zh/documents/00-基础指南/开发经验.md): 变量命名、文件结构、编码规范、架构原则等。
-*   [**通用项目架构模板**](./i18n/zh/documents/00-基础指南/通用项目架构模板.md): 多种项目类型的标准目录结构。
-*   [**Augment MCP 配置文档**](./i18n/zh/documents/02-方法论/auggie-mcp配置文档.md): Augment 上下文引擎配置说明。
-*   [**系统提示词集合**](./i18n/zh/prompts/01-系统提示词/): AI 开发的系统提示词，含多版本开发规范。
-*   [**外部资源聚合**](./i18n/zh/documents/04-资源/外部资源聚合.md): GitHub 精选仓库、AI 工具平台、提示词资源、优质博主汇总。
+*   [**编程提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): 适用于 Vibe Coding 流程的专用提示词（云端表格）。
+*   [**系统提示词构建原则**](./documents/00-基础指南/系统提示词构建原则.md): 构建高效 AI 系统提示词的综合指南。
+*   [**开发经验总结**](./documents/00-基础指南/开发经验.md): 变量命名、文件结构、编码规范、架构原则等。
+*   [**通用项目架构模板**](./documents/00-基础指南/通用项目架构模板.md): 多种项目类型的标准目录结构。
+*   [**Augment MCP 配置文档**](./documents/02-方法论/auggie-mcp配置文档.md): Augment 上下文引擎配置说明。
+*   [**系统提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): AI 开发的系统提示词，含多版本开发规范（云端表格）。
+*   [**外部资源聚合**](./documents/04-资源/外部资源聚合.md): GitHub 精选仓库、AI 工具平台、提示词资源、优质博主汇总。
 
 ---
 
@@ -406,29 +404,31 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 │   ├── FUNDING.yml              # 赞助配置
 │   └── wiki/                    # GitHub Wiki 内容
 │
-├── i18n/                        # 多语言资产 (27 种语言)
-│   ├── README.md                # 多语言索引
-│   ├── zh/                      # 中文主语料
-│   │   ├── documents/           # 文档库
-│   │   │   ├── -01-哲学与方法论/ # 最高思想纲领与方法论
-│   │   │   ├── 00-基础指南/     # 核心原则与底层逻辑
-│   │   │   ├── 01-入门指南/     # 从零开始教程
-│   │   │   ├── 02-方法论/       # 具体工具与技巧
-│   │   │   ├── 03-实战/         # 项目实战案例
-│   │   │   └── 04-资源/         # 外部资源聚合
-│   │   ├── prompts/             # 提示词库
-│   │   │   ├── 00-元提示词/     # 生成提示词的提示词
-│   │   │   ├── 01-系统提示词/   # AI 系统级提示词
-│   │   │   ├── 02-编程提示词/   # 编程相关提示词
-│   │   │   └── 03-用户提示词/   # 用户自定义提示词
-│   │   └── skills/              # 技能库
-│   │       ├── 00-元技能/       # 生成技能的元技能
-│   │       ├── 01-AI工具/       # AI CLI 和工具
-│   │       ├── 02-数据库/       # 数据库技能
-│   │       ├── 03-加密货币/     # 加密货币/量化交易
-│   │       └── 04-开发工具/     # 通用开发工具
-│   ├── en/                      # 英文版本（结构同 zh/）
-│   └── ...                      # 其他语言骨架
+├── documents/                   # 文档库
+│   ├── 05-哲学与方法论/        # 最高思想纲领与方法论
+│   ├── 00-基础指南/             # 核心原则与底层逻辑
+│   ├── 01-入门指南/             # 从零开始教程
+│   ├── 02-方法论/               # 具体工具与技巧
+│   ├── 03-实战/                 # 项目实战案例
+│   └── 04-资源/                 # 外部资源聚合
+│
+├── prompts/                     # 提示词库（指向云端表格）
+│   └── README.md                # 在线表格链接
+│
+├── skills/                      # 技能库（扁平化）
+│   ├── skills-skills/           # 元技能核心
+│   ├── sop-generator/           # SOP 生成
+│   ├── canvas-dev/              # Canvas白板驱动开发
+│   ├── headless-cli/            # 无头模式 AI CLI
+│   ├── postgresql/              # PostgreSQL 专家
+│   ├── timescaledb/             # 时序数据库
+│   ├── ccxt/                    # 交易所 API
+│   ├── tmux-autopilot/          # tmux 自动化
+│   └── ...                      # 更多技能
+│
+├── workflow/                    # 工作流模板
+│   ├── auto-dev-loop/           # 自动开发循环
+│   └── canvas-dev/              # Canvas白板驱动开发
 │
 ├── libs/                        # 核心库代码
 │   ├── common/                  # 通用模块
@@ -439,7 +439,8 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 │       ├── prompts-library/     # Excel ↔ Markdown 互转工具
 │       ├── chat-vault/          # AI 聊天记录保存工具
 │       ├── Skill_Seekers-development/ # Skills 制作器
-│       ├── l10n-tool/           # 多语言翻译脚本
+│       ├── .tmux/               # oh-my-tmux (submodule)
+│       ├── tmux/                # tmux 源码 (submodule)
 │       ├── my-nvim/             # Neovim 配置
 │       ├── MCPlayerTransfer/    # MC 玩家迁移工具
 │       └── XHS-image-to-PDF-conversion/ # 小红书图片转 PDF
@@ -460,7 +461,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 一句话：Vibe Coding = **规划驱动 + 上下文固定 + AI 结对执行**，让「从想法到可维护代码」变成一条可审计的流水线，而不是一团无法迭代的巨石文件。
 
 **你能得到**
-- 成体系的提示词工具链：`i18n/zh/prompts/01-系统提示词/` 约束 AI 行为边界，`i18n/zh/prompts/02-编程提示词/` 提供需求澄清、计划、执行的全链路脚本。
+- 成体系的提示词工具链：[云端表格](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203) 提供系统提示词约束 AI 行为边界，编程提示词提供需求澄清、计划、执行的全链路脚本。
 - 闭环交付路径：需求 → 上下文文档 → 实施计划 → 分步实现 → 自测 → 进度记录，全程可复盘、可移交。
 
 <details>
@@ -470,12 +471,12 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 核心资产映射：
 ```
-i18n/zh/prompts/
+prompts/
   00-元提示词/           # 用于生成提示词的高级提示词
   01-系统提示词/         # 约束 AI 行为边界的系统级提示词
   02-编程提示词/         # 需求澄清、计划、执行链的核心提示词
   03-用户提示词/         # 可复用的用户侧提示词
-i18n/zh/documents/
+documents/
   04-资源/代码组织.md, 04-资源/通用项目架构模板.md, 00-基础指南/开发经验.md, 00-基础指南/系统提示词构建原则.md 等知识库
 backups/
   一键备份.sh, 快速备份.py  # 本地/远端快照脚本
@@ -519,11 +520,11 @@ graph TB
   end
 
   subgraph consume_layer[执行与消费层]
-    artifacts_md --> catalog_coding[i18n/zh/prompts/02-编程提示词]
-    artifacts_md --> catalog_system[i18n/zh/prompts/01-系统提示词]
-    artifacts_md --> catalog_meta[i18n/zh/prompts/00-元提示词]
-    artifacts_md --> catalog_user[i18n/zh/prompts/03-用户提示词]
-    artifacts_md --> docs_repo[i18n/zh/documents/*]
+    artifacts_md --> catalog_coding[prompts/编程提示词]
+    artifacts_md --> catalog_system[prompts/系统提示词]
+    artifacts_md --> catalog_meta[prompts/00-元提示词]
+    artifacts_md --> catalog_user[prompts/03-用户提示词]
+    artifacts_md --> docs_repo[documents/*]
     artifacts_md --> new_consumer[预留：其他下游渠道]
     catalog_coding --> ai_flow[AI 结对编程流程]
     ai_flow --> deliverables[项目上下文 / 计划 / 代码产出]
@@ -589,12 +590,12 @@ gantt
 > 以下内容翻译自原仓库 [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding)
 
 要开始 Vibe Coding，你只需要以下两种工具之一：
-- **Claude Opus 4.5**，在 Claude Code 中使用
-- **gpt-5.1-codex.1-codex (xhigh)**，在 Codex CLI 中使用
+- **Claude Opus 4.6**，在 Claude Code 中使用
+- **gpt-5.3-codex (xhigh)**，在 Codex CLI 中使用
 
 本指南同时适用于 CLI 终端版本和 VSCode 扩展版本（Codex 和 Claude Code 都有扩展，且界面更新）。
 
-*(注：本指南早期版本使用的是 **Grok 3**，后来切换到 **Gemini 2.5 Pro**，现在我们使用的是 **Claude 4.5**（或 **gpt-5.1-codex.1-codex (xhigh)**）)*
+*(注：本指南早期版本使用的是 **Grok 3**，后来切换到 **Gemini 2.5 Pro**，现在我们使用的是 **Claude 4.6**（或 **gpt-5.3-codex (xhigh)**）)*
 
 *(注2：如果你想使用 Cursor，请查看本指南的 [1.1 版本](https://github.com/EnzeD/vibe-coding/tree/1.1.1)，但我们认为它目前不如 Codex CLI 或 Claude Code 强大)*
 
@@ -606,14 +607,14 @@ gantt
 <details>
 <summary><strong>1. 游戏设计文档（Game Design Document）</strong></summary>
 
-- 把你的游戏创意交给 **gpt-5.1-codex** 或 **Claude Opus 4.5**，让它生成一份简洁的 **游戏设计文档**，格式为 Markdown，文件名为 `game-design-document.md`。
+- 把你的游戏创意交给 **gpt-5.3-codex** 或 **Claude Opus 4.6**，让它生成一份简洁的 **游戏设计文档**，格式为 Markdown，文件名为 `game-design-document.md`。
 - 自己审阅并完善，确保与你的愿景一致。初期可以很简陋，目标是给 AI 提供游戏结构和意图的上下文。不要过度设计，后续会迭代。
 </details>
 
 <details>
 <summary><strong>2. 技术栈与 <code>CLAUDE.md</code> / <code>Agents.md</code></strong></summary>
 
-- 让 **gpt-5.1-codex** 或 **Claude Opus 4.5** 为你的游戏推荐最合适的技术栈（例如：多人3D游戏用 ThreeJS + WebSocket），保存为 `tech-stack.md`。
+- 让 **gpt-5.3-codex** 或 **Claude Opus 4.6** 为你的游戏推荐最合适的技术栈（例如：多人3D游戏用 ThreeJS + WebSocket），保存为 `tech-stack.md`。
   - 要求它提出 **最简单但最健壮** 的技术栈。
 - 在终端中打开 **Claude Code** 或 **Codex CLI**，使用 `/init` 命令，它会读取你已创建的两个 .md 文件，生成一套规则来正确引导大模型。
 - **关键：一定要审查生成的规则。** 确保规则强调 **模块化**（多文件）和禁止 **单体巨文件**（monolith）。可能需要手动修改或补充规则。
@@ -631,7 +632,7 @@ gantt
 <details>
 <summary><strong>3. 实施计划（Implementation Plan）</strong></summary>
 
-- 将以下内容提供给 **gpt-5.1-codex** 或 **Claude Opus 4.5**：
+- 将以下内容提供给 **gpt-5.3-codex** 或 **Claude Opus 4.6**：
   - 游戏设计文档（`game-design-document.md`）
   - 技术栈推荐（`tech-stack.md`）
 - 让它生成一份详细的 **实施计划**（Markdown 格式），包含一系列给 AI 开发者的分步指令。
@@ -675,7 +676,7 @@ gantt
 - 打开 **Codex** 或 **Claude Code**（扩展或终端）。
 - 提示词：阅读 `/memory-bank` 所有文档，然后执行实施计划的第 1 步。我会负责跑测试。在我验证测试通过前，不要开始第 2 步。验证通过后，打开 `progress.md` 记录你做了什么供后续开发者参考，再把新的架构洞察添加到 `architecture.md` 中解释每个文件的作用。
 - **永远** 先用 "Ask" 模式或 "Plan Mode"（Claude Code 中按 `shift+tab`），确认满意后再让 AI 执行该步骤。
-- **极致 Vibe：** 安装 [Superwhisper](https://superwhisper.com)，用语音随便跟 Claude 或 gpt-5.1-codex 聊天，不用打字。
+- **极致 Vibe：** 安装 [Superwhisper](https://superwhisper.com)，用语音随便跟 Claude 或 gpt-5.3-codex 聊天，不用打字。
 </details>
 
 <details>
@@ -707,7 +708,7 @@ gantt
 <summary><strong>常规修复</strong></summary>
 
 - 如果某个提示词失败或搞崩了项目：
-  - Claude Code 用 `/rewind` 回退；用 gpt-5.1-codex 的话多提交 git，需要时 reset。
+  - Claude Code 用 `/rewind` 回退；用 gpt-5.3-codex 的话多提交 git，需要时 reset。
 - 报错处理：
   - **JavaScript 错误：** 打开浏览器控制台（F12），复制错误，贴给 AI；视觉问题截图发给它。
   - **懒人方案：** 安装 [BrowserTools](https://browsertools.agentdesk.ai/installation)，自动复制错误和截图。
@@ -719,7 +720,7 @@ gantt
 - 实在卡住：
   - 回退到上一个 git commit（`git reset`），换新提示词重试。
 - 极度卡壳：
-  - 用 [RepoPrompt](https://repoprompt.com/) 或 [uithub](https://uithub.com/) 把整个代码库合成一个文件，然后丢给 **gpt-5.1-codex 或 Claude** 求救。
+  - 用 [RepoPrompt](https://repoprompt.com/) 或 [uithub](https://uithub.com/) 把整个代码库合成一个文件，然后丢给 **gpt-5.3-codex 或 Claude** 求救。
 </details>
 
 </details>
@@ -740,7 +741,7 @@ gantt
 <details>
 <summary><strong>其他实用技巧</strong></summary>
 
-- **小修改：** 用 gpt-5.1-codex (medium)
+- **小修改：** 用 gpt-5.3-codex (medium)
 - **写顶级营销文案：** 用 Opus 4.1
 - **生成优秀 2D 精灵图：** 用 ChatGPT + Nano Banana
 - **生成音乐：** 用 Suno
@@ -763,7 +764,7 @@ gantt
   - **A:** 那不是一个提示词，是 ~30 个提示词 + 专门的 `plane-implementation.md` 文件引导的。用精准指令如“在机翼上为副翼切出空间”，而不是“做一个飞机”这种模糊指令。
 
 - **Q: 为什么现在 Claude Code 或 Codex CLI 比 Cursor 更强？**
-  - **A:** 完全看个人喜好。我们强调的是：Claude Code 能更好发挥 Claude Opus 4.5 的实力，Codex CLI 能更好发挥 gpt-5.1-codex 的实力，而 Cursor 对这两者的利用都不如原生终端版。终端版还能在任意 IDE、使用 SSH 远程服务器等场景工作，自定义命令、子代理、钩子等功能也能长期大幅提升开发质量和速度。最后，即使你只是低配 Claude 或 ChatGPT 订阅，也完全够用。
+  - **A:** 完全看个人喜好。我们强调的是：Claude Code 能更好发挥 Claude Opus 4.6 的实力，Codex CLI 能更好发挥 gpt-5.3-codex 的实力，而 Cursor 对这两者的利用都不如原生终端版。终端版还能在任意 IDE、使用 SSH 远程服务器等场景工作，自定义命令、子代理、钩子等功能也能长期大幅提升开发质量和速度。最后，即使你只是低配 Claude 或 ChatGPT 订阅，也完全够用。
 
 - **Q: 我不会搭建多人游戏的服务器怎么办？**
   - **A:** 问你的 AI。
