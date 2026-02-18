@@ -24,7 +24,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/github/license/tukuaiai/vibe-coding-cn?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&style=for-the-badge" alt="许可证"></a>
   <a href="https://github.com/tukuaiai/vibe-coding-cn"><img src="https://img.shields.io/github/languages/top/tukuaiai/vibe-coding-cn?label=%E4%B8%BB%E8%A6%81%E8%AF%AD%E8%A8%80&style=for-the-badge" alt="主要语言"></a>
   <a href="https://github.com/tukuaiai/vibe-coding-cn"><img src="https://img.shields.io/github/languages/code-size/tukuaiai/vibe-coding-cn?label=%E4%BB%A3%E7%A0%81%E9%87%8F&style=for-the-badge" alt="代码量"></a>
-  <a href="https://x.com/123olp"><img src="https://img.shields.io/badge/X-@123olp-black?style=for-the-badge&logo=x" alt="X"></a>
+  <a href="https://x.com/123olp"><img src="https://img.shields.io/badge/X-@开发者的X-black?style=for-the-badge&logo=x" alt="X"></a>
   <a href="https://t.me/glue_coding"><img src="https://img.shields.io/badge/聊天-Telegram-blue?style=for-the-badge&logo=telegram" alt="交流群"></a>
 </p>
 
@@ -52,13 +52,13 @@
   <a href="./libs/external/chat-vault/README.md"><img src="https://img.shields.io/badge/🔐_Chat_Vault-AI会话库-gold?style=for-the-badge" alt="Chat Vault"></a>
 </p>
 
-[📋 工具资源](#-器-工具与资源)
-[🚀 从零开始](#-从零开始)
-[🎯 原仓库翻译](#-原仓库翻译)
-[⚙️ 完整设置流程](#️-完整设置流程)
-[📞 联系方式](#-联系方式)
-[✨ 支持项目](#-支持项目)
-[🤝 参与贡献](#-参与贡献)
+[📋 工具与资源](#tools)
+[🚀 从零开始](#getting-started)
+[🎯 原仓库翻译](#translation)
+[⚙️ 完整设置流程](#setup)
+[📞 联系方式](#contact)
+[✨ 支持项目](#support)
+[🤝 参与贡献](#contributing)
 
 本仓库的 AI 解读链接：[zread.ai/tukuaiai/vibe-coding-cn](https://zread.ai/tukuaiai/vibe-coding-cn/1-overview)
 
@@ -66,14 +66,20 @@
 
 ## 🎲 前言
 
-**这是一个不断生长和自我否定的项目，当下的一切经验和能力都可能因 AI 能力的进化而失去意义，所以请时刻保持以 AI 为主的思维，不要固步自封，所有的经验都可能失效，辩证的看🙏🙏🙏**
+**这是一个不断生长和自我否定的项目，当下的一切经验和能力都可能因 AI 能力的变化而失去意义，所以请时刻保持以 AI 为主的思维，重视这次宇宙级的变革，所有的经验都可能失效，辩证的看🙏🙏🙏**，**Vibe Coding** 是一个与 AI 结对编程的终极工作流程，旨在帮助开发者丝滑地将想法变为现实。本指南详细介绍了从项目构思、技术选型、实施规划到具体开发、调试和扩展的全过程，强调以**规划驱动**和**模块化**，**索引构建**为核心（受限于模型上下文窗口而生成的解决策略），避免让 AI 失控导致项目混乱，Vibe Coding（氛围编程）是一种以自然语言驱动、让LLM生成大部分代码的开发方式，主打“先沉浸式做出能跑的东西”，以极低门槛快速产出原型但也伴随可控性与可靠性风险，由由计算机科学家 [Andrej Karpathy](https://x.com/karpathy) 首次提出。
+
+> **核心理念**: *规划就是一切。* 谨慎让 AI 全局自主规划，否则你的代码库会变成一团无法管理的乱麻。
+
+**注意**：以下经验分享并非普遍适用，请在具体实践中结合场景，辩证采纳（点击标题可以展开收起内容）
 
 ---
 
-<details>
-<summary><strong>⚡ 5 分钟快速开始</strong></summary>
+<a id="getting-started"></a>
 
-## ⚡ 5 分钟快速开始
+<details>
+<summary><strong>⚡ 1 分钟快速开始</strong></summary>
+
+## ⚡ 1 分钟快速开始
 
 > 已有网络和开发环境？直接开始 Vibe Coding！
 
@@ -97,11 +103,7 @@
 
 **第 2 步**：跟着 AI 的指导，把想法变成现实 🚀
 
-**就这么简单！** 更多进阶内容请继续阅读 👇
-
-</details>
-
----
+**就这么简单！** 更多内容（从零开始）请继续阅读 👇
 
 ## 🚀 从零开始
 
@@ -113,14 +115,48 @@
 3. [03-IDE配置](./documents/01-入门指南/03-IDE配置.md) - 配置 VS Code 编辑器
 4. [04-OpenCode-CLI配置](./documents/01-入门指南/04-OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
 
----
+</details>
 
-<details open>
+<details>
+<summary><strong>🧪 实验性方法</strong></summary>
+
+> 下面是一些“可能随时推翻重写”的实验性方法与范式：先看一眼，觉得对你有用再深入。
+
+**建议阅读顺序（从抽象到落地）**
+1. 🔑 元方法论：用“生成器/优化器”的递归闭环让系统自我进化
+2. 🧬 胶水编程：复用成熟轮子，把注意力放在“连接方式”
+3. 🎨 Canvas白板驱动开发：让白板成为单一真相源，降低协作与上下文成本
+4. 🐝 AI蜂群协作：让多个 AI 在 tmux 下互相感知、协作、分工
+5. 🔮 哲学方法论工具箱：把抽象方法论落到可验证、可迭代的工程动作
+
+<details>
+<summary><strong>🔑 元方法论</strong></summary>
+
+> 一句话：用“生成器/优化器”的递归闭环，构建一个能持续自我优化的 AI 系统。
+>
+> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
+
+### 核心角色
+- **α-提示词（生成器）**：一个“母体”提示词，其唯一职责是生成其他提示词或技能。
+- **Ω-提示词（优化器）**：另一个“母体”提示词，其唯一职责是优化其他提示词或技能。
+
+### 递归生命周期（最小闭环）
+1. **创生（Bootstrap）**：使用 AI 生成 `α-提示词` 与 `Ω-提示词` 的初始版本（v1）。
+2. **自省与进化（Self-Correction & Evolution）**：用 `Ω-提示词（v1）` 优化 `α-提示词（v1）`，得到更强的 `α-提示词（v2）`。
+3. **创造（Generation）**：使用进化后的 `α-提示词（v2）` 生成目标提示词与技能。
+4. **循环与飞跃（Recursive Loop）**：将新产物（甚至包括新版本的 `Ω-提示词`）回灌系统，再次用于优化 `α-提示词`，启动持续进化。
+
+### 终极目标
+- 通过持续的递归优化循环，让系统在每次迭代中实现自我超越，逼近预设的预期状态。
+
+</details>
+
+<details>
 <summary><strong>🧬 胶水编程 (Glue Coding)</strong></summary>
 
-> **软件工程的圣杯与银弹**
+> 一句话：能抄不写，能连不造，能复用不原创。
 
-胶水编程是 Vibe Coding 的终极进化形态，可能完美解决三大致命缺陷：
+胶水编程是 Vibe Coding 的终极进化形态，目标是把注意力从“造轮子”迁移到“连接方式”，从而缓解三大致命缺陷：
 
 | 问题 | 解法 |
 |:---|:---|
@@ -128,16 +164,14 @@
 | 🧩 复杂性爆炸 | ✅ 每个模块都是久经考验的轮子 |
 | 🎓 门槛过高 | ✅ 你只需要描述"连接方式" |
 
-**核心理念**：能抄不写，能连不造，能复用不原创。
-
 👉 [深入了解胶水编程](./documents/00-基础指南/胶水编程.md)
 
 </details>
 
-<details open>
+<details>
 <summary><strong>🎨 Canvas白板驱动开发</strong></summary>
 
-> **图形化AI协作的新范式**
+> 一句话：让白板成为单一真相源，用“图形”降低协作与上下文成本。
 
 传统开发：代码 → 口头沟通 → 脑补架构 → 代码失控
 
@@ -155,10 +189,10 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 </details>
 
-<details open>
+<details>
 <summary><strong>🐝 AI蜂群协作</strong></summary>
 
-> **基于 tmux 的多 AI Agent 协作系统**
+> 一句话：把多个 AI 变成“可互相感知与协作的集群”，人从瓶颈变为调度者。
 
 传统模式：人 ←→ AI₁, 人 ←→ AI₂, 人 ←→ AI₃ (人是瓶颈)
 
@@ -176,10 +210,10 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 </details>
 
-<details open>
+<details>
 <summary><strong>🔮 哲学方法论工具箱</strong></summary>
 
-> **把 Vibe 系统化为可验证、可迭代、可收敛的工程产出**
+> 一句话：把抽象方法论落到可验证、可迭代、可收敛的工程产出。
 
 23 种哲学方法论 + Python 工具 + 可复制提示词，覆盖：
 
@@ -197,54 +231,15 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 </details>
 
----
-
-## 🖼️ 概览
-
-**Vibe Coding** 是一个与 AI 结对编程的终极工作流程，旨在帮助开发者丝滑地将想法变为现实。本指南详细介绍了从项目构思、技术选型、实施规划到具体开发、调试和扩展的全过程，强调以**规划驱动**和**模块化**为核心，避免让 AI 失控导致项目混乱。
-
-> **核心理念**: *规划就是一切。* 谨慎让 AI 自主规划，否则你的代码库会变成一团无法管理的乱麻。
-
-**注意**：以下经验分享并非普遍适用，请在具体实践中结合场景，辩证采纳。
-
-<details open>
-<summary><strong>🔑 元方法论 (Meta-Methodology)</strong></summary>
-
-
-该思想的核心是构建一个能够**自我优化**的 AI 系统。其递归本质可分解为以下步骤：
-
-> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
-
-#### 1. 定义核心角色：
-
-*   **α-提示词 (生成器)**: 一个“母体”提示词，其唯一职责是**生成**其他提示词或技能。
-*   **Ω-提示词 (优化器)**: 另一个“母体”提示词，其唯一职责是**优化**其他提示词或技能。
-
-#### 2. 描述递归的生命周期：
-
-1.  **创生 (Bootstrap)**:
-    *   使用 AI 生成 `α-提示词` 和 `Ω-提示词` 的初始版本 (v1)。
-
-2.  **自省与进化 (Self-Correction & Evolution)**:
-    *   使用 `Ω-提示词 (v1)` **优化** `α-提示词 (v1)`，从而得到一个更强大的 `α-提示词 (v2)`。
-
-3.  **创造 (Generation)**:
-    *   使用**进化后的** `α-提示词 (v2)` 生成所有需要的目标提示词和技能。
-
-4.  **循环与飞跃 (Recursive Loop)**:
-    *   将新生成的、更强大的产物（甚至包括新版本的 `Ω-提示词`）反馈给系统，再次用于优化 `α-提示词`，从而启动持续进化。
-
-#### 3. 终极目标：
-
-通过此持续的**递归优化循环**，系统在每次迭代中实现**自我超越**，无限逼近预设的**预期状态**。
-
 </details>
 
-<details open>
-<summary><strong>🧭 方法论精要 (道·法·术)</strong></summary>
+<details>
+<summary><strong>🧭 经验</strong></summary>
 
-## 🧭 道
+## 🧭 经验
 
+* **状态，变换；数据，函数；输入，处理，输出；抽象/收敛，展开；可解释性；层级；过程；全称/特称，肯定/否定**
+* **人下 AI 上**
 * **凡是 AI 能做的，就不要人工做**
 * **一切问题问 AI**
 * **目的主导：开发过程中的一切动作围绕"目的"展开**
@@ -258,22 +253,15 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 * **帕累托法则，关注重要的那20%**
 * **逆向思考，先明确你的需求，从需求逆向构建代码**
 * **重复，多试几次，实在不行重新开个窗口，**
-* **专注，极致的专注可以击穿代码，一次只做一件事（神人除外）**
-
-
-## 🧩 法
-
+* **专注，极致的专注可以击穿代码，一次只做一件事**
 * **一句话目标 + 非目标**
 * **正交性（这个分场景）**
-* **能抄不写，不重复造轮子，先问 AI 有没有合适的仓库，下载下来改（glue coding全新范式）**
+* **能抄不写，不重复造轮子，先问 AI 有没有合适的仓库，下载下来改（glue coding 基于 vibe coding全新的方法）**
 * **一定要看官方文档，先把官方文档爬下来喂给 AI（让 AI 找工具下载到本地）**
 * **按职责拆模块**
 * **接口先行，实现后补**
 * **一次只改一个模块**
 * **文档即上下文，不是事后补**
-
-## 🛠️ 术
-
 * 明确写清：**能改什么，不能改什么**
 * Debug 只给：**预期 vs 实际 + 最小复现**
 * 测试可交给 AI，**断言人审**
@@ -282,10 +270,12 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 </details>
 
-<details open>
-<summary><strong>📋 器 (工具与资源)</strong></summary>
+<a id="tools"></a>
 
-## 📋 器
+<details>
+<summary><strong>📋 工具与资源</strong></summary>
+
+## 📋 工具与资源
 
 ### 集成开发环境 (IDE) & 终端
 
@@ -362,23 +352,23 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 </details>
 
-<details open>
-<summary><strong>编码模型性能分级参考</strong></summary>
+<details>
+<summary><strong>🏁 编码模型性能分级参考</strong></summary>
 
-## 编码模型性能分级参考
+## 🏁 编码模型性能分级参考
 
 建议只选择第一梯队模型处理复杂任务，以确保最佳效果与效率。
 
-*   **第一梯队**: `codex-5.1-max-xhigh`, `claude-opus-4.5-xhigh`, `gpt-5.2-xhigh`
+*   **第一梯队**: [gpt-5.2-xhigh](https://chatgpt.com/codex)
 
 ---
 
 </details>
 
 <details>
-<summary><strong>项目目录结构概览</strong></summary>
+<summary><strong>🗂️ 项目目录结构概览</strong></summary>
 
-### 项目目录结构概览
+## 🗂️ 项目目录结构概览
 
 本项目 `vibe-coding-cn` 的核心结构主要围绕知识管理、AI 提示词的组织与自动化展开。以下是经过整理和简化的目录树及各部分说明：
 
@@ -452,9 +442,10 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
     └── gz/                      # 压缩存档目录
 ```
 
----
-
 </details>
+
+<details>
+<summary><strong>📺 演示与产出</strong></summary>
 
 ## 📺 演示与产出
 
@@ -550,7 +541,9 @@ graph TB
 </details>
 
 <details>
-<summary>📈 性能基准 (可选)</summary>
+<summary><strong>📈 性能基准 (可选)</strong></summary>
+
+## 📈 性能基准 (可选)
 
 本仓库定位为「流程与提示词」而非性能型代码库，建议跟踪下列可观测指标（当前主要依赖人工记录，可在 `progress.md` 中打分/留痕）：
 
@@ -585,6 +578,13 @@ gantt
 
 ---
 
+</details>
+
+<a id="translation"></a>
+
+<details>
+<summary><strong>🎯 原仓库翻译</strong></summary>
+
 ## 🎯 原仓库翻译
 
 > 以下内容翻译自原仓库 [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding)
@@ -601,8 +601,9 @@ gantt
 
 ---
 
-<details>
-<summary><strong>⚙️ 完整设置流程</strong></summary>
+<a id="setup"></a>
+
+## ⚙️ 完整设置流程
 
 <details>
 <summary><strong>1. 游戏设计文档（Game Design Document）</strong></summary>
@@ -655,10 +656,7 @@ gantt
   - `architecture.md`（新建一个空文件，用于记录每个文件的作用）
 </details>
 
-</details>
-
-<details>
-<summary><strong>🎮 Vibe Coding 开发基础游戏</strong></summary>
+## 🎮 Vibe Coding 开发基础游戏
 
 现在进入最爽的阶段！
 
@@ -689,20 +687,14 @@ gantt
 - 重复此流程，直到整个 `implementation-plan.md` 全部完成。
 </details>
 
-</details>
-
-<details>
-<summary><strong>✨ 添加细节功能</strong></summary>
+## ✨ 添加细节功能
 
 恭喜！你已经做出了基础游戏！可能还很粗糙、缺少功能，但现在可以尽情实验和打磨了。
 - 想要雾效、后期处理、特效、音效？更好的飞机/汽车/城堡？绝美天空？
 - 每增加一个主要功能，就新建一个 `feature-implementation.md`，写短步骤+测试。
 - 继续增量式实现和测试。
 
-</details>
-
-<details>
-<summary><strong>🐞 修复 Bug 与卡壳情况</strong></summary>
+## 🐞 修复 Bug 与卡壳情况
 
 <details>
 <summary><strong>常规修复</strong></summary>
@@ -723,10 +715,7 @@ gantt
   - 用 [RepoPrompt](https://repoprompt.com/) 或 [uithub](https://uithub.com/) 把整个代码库合成一个文件，然后丢给 **gpt-5.3-codex 或 Claude** 求救。
 </details>
 
-</details>
-
-<details>
-<summary><strong>💡 技巧与窍门</strong></summary>
+## 💡 技巧与窍门
 
 <details>
 <summary><strong>Claude Code & Codex 使用技巧</strong></summary>
@@ -752,10 +741,7 @@ gantt
   - 在 Claude Code 中触发深度思考的关键词强度：`think` < `think hard` < `think harder` < `ultrathink`。
 </details>
 
-</details>
-
-<details>
-<summary><strong>❓ 常见问题解答 (FAQ)</strong></summary>
+## ❓ 常见问题解答 (FAQ)
 
 - **Q: 我在做应用不是游戏，这个流程一样吗？**
   - **A:** 基本完全一样！把 GDD 换成 PRD（产品需求文档）即可。你也可以先用 v0、Lovable、Bolt.new 快速原型，再把代码搬到 GitHub，然后克隆到本地用本指南继续开发。
@@ -773,6 +759,8 @@ gantt
 
 ---
 
+<a id="contact"></a>
+
 ## 📞 联系方式
 
 -   **GitHub**: [tukuaiai](https://github.com/tukuaiai)
@@ -780,9 +768,11 @@ gantt
 -   **Telegram**: [@desci0](https://t.me/desci0)
 -   **Telegram 交流群**: [glue_coding](https://t.me/glue_coding)
 -   **Telegram 频道**: [tradecat_ai_channel](https://t.me/tradecat_ai_channel)
--   **邮箱**: tukuai.ai@gmail.com (回复可能不及时)
+-   **邮箱**: tukuai.ai@gmail.com
 
 ---
+
+<a id="support"></a>
 
 ## ✨ 支持项目
 
@@ -819,6 +809,8 @@ gantt
 </p>
 
 ---
+
+<a id="contributing"></a>
 
 ## 🤝 参与贡献
 
