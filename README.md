@@ -40,16 +40,16 @@
   <a href="./documents/00-基础指南/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
   <a href="./documents/00-基础指南/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
   <a href="./documents/00-基础指南/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
-  <a href="./documents/04-资源/外部资源聚合.md"><img src="https://img.shields.io/badge/📡_信息源-聚合-teal?style=for-the-badge" alt="信息源聚合"></a>
+  <a href="./assets/README.md"><img src="https://img.shields.io/badge/📡_信息源-聚合-teal?style=for-the-badge" alt="信息源聚合"></a>
   <a href="./documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md"><img src="https://img.shields.io/badge/📐_元方法论-递归优化-darkorange?style=for-the-badge" alt="元方法论"></a>
   <a href="./documents/00-基础指南/编程之道.md"><img src="https://img.shields.io/badge/🧭_编程之道-道法术-orange?style=for-the-badge" alt="编程之道"></a>
   <a href="./documents/03-实战/README.md"><img src="https://img.shields.io/badge/🎬_实战案例-项目实操-orange?style=for-the-badge" alt="实战案例"></a>
-  <a href="./documents/04-资源/工具集.md"><img src="https://img.shields.io/badge/🛠️_工具集-速查-teal?style=for-the-badge" alt="工具集"></a>
+  <a href="./assets/README.md"><img src="https://img.shields.io/badge/🛠️_工具集-速查-teal?style=for-the-badge" alt="工具集"></a>
   <a href="./prompts/"><img src="https://img.shields.io/badge/💬_提示词-精选-purple?style=for-the-badge" alt="提示词精选"></a>
   <a href="./skills/"><img src="https://img.shields.io/badge/⚡_Skills-技能大全-forestgreen?style=for-the-badge" alt="skills技能大全"></a>
   <a href="https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203"><img src="https://img.shields.io/badge/📋_提示词-在线表格-blue?style=for-the-badge" alt="提示词在线表格"></a>
   <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"><img src="https://img.shields.io/badge/🔧_系统提示词-仓库-slateblue?style=for-the-badge" alt="系统提示词仓库"></a>
-  <a href="./libs/external/chat-vault/README.md"><img src="https://img.shields.io/badge/🔐_Chat_Vault-AI会话库-gold?style=for-the-badge" alt="Chat Vault"></a>
+  <a href="./repo/chat-vault/README.md"><img src="https://img.shields.io/badge/🔐_Chat_Vault-AI会话库-gold?style=for-the-badge" alt="Chat Vault"></a>
 </p>
 
 [📋 工具与资源](#tools)
@@ -330,15 +330,15 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 ### 项目内部文档
 
 *   [**胶水编程 (Glue Coding)**](./documents/00-基础指南/): 软件工程的圣杯与银弹，Vibe Coding 的终极进化形态。
-*   [**Chat Vault**](./libs/external/chat-vault/): AI 聊天记录保存工具，支持 Codex/Kiro/Gemini/Claude CLI。
-*   [**prompts-library 工具说明**](./libs/external/prompts-library/): 支持 Excel 与 Markdown 格式互转，包含数百个精选提示词。
+*   [**Chat Vault**](./repo/chat-vault/): AI 聊天记录保存工具，支持 Codex/Kiro/Gemini/Claude CLI。
+*   [**prompts-library 工具说明**](./repo/prompts-library/): 支持 Excel 与 Markdown 格式互转，包含数百个精选提示词。
 *   [**编程提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): 适用于 Vibe Coding 流程的专用提示词（云端表格）。
 *   [**系统提示词构建原则**](./documents/00-基础指南/系统提示词构建原则.md): 构建高效 AI 系统提示词的综合指南。
 *   [**开发经验总结**](./documents/00-基础指南/开发经验.md): 变量命名、文件结构、编码规范、架构原则等。
 *   [**通用项目架构模板**](./documents/00-基础指南/通用项目架构模板.md): 多种项目类型的标准目录结构。
 *   [**Augment MCP 配置文档**](./documents/02-方法论/auggie-mcp配置文档.md): Augment 上下文引擎配置说明。
 *   [**系统提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): AI 开发的系统提示词，含多版本开发规范（云端表格）。
-*   [**外部资源聚合**](./documents/04-资源/外部资源聚合.md): GitHub 精选仓库、AI 工具平台、提示词资源、优质博主汇总。
+*   [**外部资源（在线表格）**](./assets/README.md): 外部资源的唯一真相源（按类型分表），本地 Markdown 保留为历史参考。
 
 ---
 
@@ -368,13 +368,15 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 .
 ├── README.md                    # 项目主文档
 ├── AGENTS.md                    # AI Agent 行为准则
-├── CLAUDE.md                    # Claude 模型上下文
-├── GEMINI.md                    # Gemini 模型上下文
 ├── Makefile                     # 自动化脚本
 ├── LICENSE                      # MIT 许可证
 ├── CODE_OF_CONDUCT.md           # 行为准则
 ├── CONTRIBUTING.md              # 贡献指南
 ├── .gitignore                   # Git 忽略规则
+│
+├── assets/                      # 外部资源（指向在线表格）
+│   ├── README.md                # 远程表格索引（唯一真相源）
+│   └── AGENTS.md                # assets/ 目录规则
 │
 ├── config/                      # 工具与开发配置
 │   └── .codex/                  # Codex CLI 配置（项目级）
@@ -398,7 +400,6 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 │   ├── 01-入门指南/             # 从零开始教程
 │   ├── 02-方法论/               # 具体工具与技巧
 │   ├── 03-实战/                 # 项目实战案例
-│   └── 04-资源/                 # 外部资源聚合
 │
 ├── prompts/                     # 提示词库（指向云端表格）
 │   └── README.md                # 在线表格链接
@@ -418,29 +419,22 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 │   ├── auto-dev-loop/           # 自动开发循环
 │   └── canvas-dev/              # Canvas白板驱动开发
 │
-├── libs/                        # 核心库代码
-│   ├── common/                  # 通用模块
-│   │   ├── models/              # 模型定义
-│   │   └── utils/               # 工具函数
-│   ├── database/                # 数据库模块（预留）
-│   └── external/                # 外部工具
-│       ├── prompts-library/     # Excel ↔ Markdown 互转工具
-│       ├── chat-vault/          # AI 聊天记录保存工具
-│       ├── Skill_Seekers-development/ # Skills 制作器
-│       ├── .tmux/               # oh-my-tmux (submodule)
-│       ├── tmux/                # tmux 源码 (submodule)
-│       ├── my-nvim/             # Neovim 配置
-│       ├── MCPlayerTransfer/    # MC 玩家迁移工具
-│       └── XHS-image-to-PDF-conversion/ # 小红书图片转 PDF
+├── repo/                        # 外部工具与依赖镜像（含 Git submodule）
+│   ├── README.md                # 外部工具索引
+│   ├── prompts-library/         # Excel ↔ Markdown 互转工具
+│   ├── chat-vault/              # AI 聊天记录保存工具
+│   ├── Skill_Seekers-development/ # Skills 制作器
+│   ├── html-tools-main/         # HTML 工具集
+│   ├── my-nvim/                 # Neovim 配置
+│   ├── MCPlayerTransfer/        # MC 玩家迁移工具
+│   ├── XHS-image-to-PDF-conversion/ # 小红书图片转 PDF
+│   ├── backups/                 # 历史备份脚本快照
+│   ├── .tmux/                   # oh-my-tmux (submodule)
+│   ├── tmux/                    # tmux 源码 (submodule)
+│   └── claude-official-skills/  # Claude 官方 skills (submodule)
 │
 ├── tools/                       # 工具目录（预留）
 │   └── .gitkeep                 # 保持空目录被 Git 追踪
-│
-└── backups/                     # 备份脚本与存档
-    ├── 一键备份.sh              # Shell 备份脚本
-    ├── 快速备份.py              # Python 备份脚本
-    ├── README.md                # 备份说明
-    └── gz/                      # 压缩存档目录
 ```
 
 </details>
@@ -469,8 +463,10 @@ prompts/
   02-编程提示词/         # 需求澄清、计划、执行链的核心提示词
   03-用户提示词/         # 可复用的用户侧提示词
 documents/
-  04-资源/代码组织.md, 04-资源/通用项目架构模板.md, 00-基础指南/开发经验.md, 00-基础指南/系统提示词构建原则.md 等知识库
-backups/
+  00-基础指南/代码组织.md, 00-基础指南/通用项目架构模板.md, 00-基础指南/开发经验.md, 00-基础指南/系统提示词构建原则.md 等知识库
+assets/
+  README.md  # 外部资源（在线表格）唯一真相源入口
+repo/backups/
   一键备份.sh, 快速备份.py  # 本地/远端快照脚本
 ```
 
@@ -491,8 +487,8 @@ graph TB
   subgraph ingest_layer[数据接入与采集层]
     excel_raw[prompt_excel/*.xlsx]
     md_raw[prompt_docs/外部MD输入]
-    excel_to_docs[prompts-library/scripts/excel_to_docs.py]
-    docs_to_excel[prompts-library/scripts/docs_to_excel.py]
+    excel_to_docs[repo/prompts-library/scripts/excel_to_docs.py]
+    docs_to_excel[repo/prompts-library/scripts/docs_to_excel.py]
     ingest_bus[标准化数据帧]
     ext_sheet --> excel_raw
     ext_md --> md_raw
@@ -530,9 +526,9 @@ graph TB
 
   subgraph infra_layer[基础设施与横切能力层]
     git[Git 版本控制] --> orchestrator
-    backups[backups/一键备份.sh · backups/快速备份.py] --> artifacts_md
+    backups[repo/backups/一键备份.sh · repo/backups/快速备份.py] --> artifacts_md
     deps[requirements.txt · scripts/requirements.txt] --> orchestrator
-    config[prompts-library/scripts/config.yaml] --> orchestrator
+    config[repo/prompts-library/scripts/config.yaml] --> orchestrator
     monitor[预留：日志与监控] --> orchestrator
   end
 ```
@@ -596,7 +592,7 @@ gantt
 
 本指南同时适用于 CLI 终端版本和 VSCode 扩展版本（Codex 和 Claude Code 都有扩展，且界面更新）。
 
-*(注：本指南早期版本使用的是 **Grok 3**，后来切换到 **Gemini 2.5 Pro**，现在我们使用的是 **Claude 4.6**（或 **gpt-5.3-codex (xhigh)**）)*
+*(注：本指南早期版本使用的是 **Grok 3**，后来切换到 **Gemini 3.1 Pro**，现在我们使用的是 **Claude 4.6**（或 **gpt-5.3-codex (xhigh)**）)*
 
 *(注2：如果你想使用 Cursor，请查看本指南的 [1.1 版本](https://github.com/EnzeD/vibe-coding/tree/1.1.1)，但我们认为它目前不如 Codex CLI 或 Claude Code 强大)*
 
@@ -614,7 +610,7 @@ gantt
 </details>
 
 <details>
-<summary><strong>2. 技术栈与 <code>CLAUDE.md</code> / <code>AGENTS.md</code></strong></summary>
+<summary><strong>2. 技术栈与 Agent 规则（<code>AGENTS.md</code> / 自定义 rules）</strong></summary>
 
 - 让 **gpt-5.3-codex** 或 **Claude Opus 4.6** 为你的游戏推荐最合适的技术栈（例如：多人3D游戏用 ThreeJS + WebSocket），保存为 `tech-stack.md`。
   - 要求它提出 **最简单但最健壮** 的技术栈。
