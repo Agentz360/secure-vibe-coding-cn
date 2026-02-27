@@ -31,25 +31,25 @@
 <!-- 资源直达 - 按重要性分组 -->
 <!-- 🔴 核心理念 (红色系) -->
 <p>
-  <a href="./documents/05-哲学与方法论/README.md"><img src="https://img.shields.io/badge/🔮_哲学方法论-底层协议-purple?style=for-the-badge" alt="哲学与方法论"></a>
-  <a href="./documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md"><img src="https://img.shields.io/badge/🧠_核心哲学-必读-crimson?style=for-the-badge" alt="核心哲学"></a>
-  <a href="./documents/00-基础指南/胶水编程.md"><img src="https://img.shields.io/badge/🧬_胶水编程-银弹-red?style=for-the-badge" alt="胶水编程"></a>
-  <a href="./documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md"><img src="https://img.shields.io/badge/🎨_Canvas白板-图形驱动-orange?style=for-the-badge" alt="Canvas白板驱动开发"></a>
-  <a href="./documents/01-入门指南/README.md"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
-  <a href="./documents/00-基础指南/血的教训.md"><img src="https://img.shields.io/badge/🩸_血的教训-必看-red?style=for-the-badge" alt="血的教训"></a>
-  <a href="./documents/00-基础指南/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
-  <a href="./documents/00-基础指南/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
-  <a href="./documents/00-基础指南/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
+  <a href="./assets/documents/05-哲学与方法论/README.md"><img src="https://img.shields.io/badge/🔮_哲学方法论-底层协议-purple?style=for-the-badge" alt="哲学与方法论"></a>
+  <a href="./assets/documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md"><img src="https://img.shields.io/badge/🧠_核心哲学-必读-crimson?style=for-the-badge" alt="核心哲学"></a>
+  <a href="./assets/documents/00-基础指南/胶水编程.md"><img src="https://img.shields.io/badge/🧬_胶水编程-银弹-red?style=for-the-badge" alt="胶水编程"></a>
+  <a href="./assets/documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md"><img src="https://img.shields.io/badge/🎨_Canvas白板-图形驱动-orange?style=for-the-badge" alt="Canvas白板驱动开发"></a>
+  <a href="./assets/documents/01-入门指南/README.md"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
+  <a href="./assets/documents/00-基础指南/血的教训.md"><img src="https://img.shields.io/badge/🩸_血的教训-必看-red?style=for-the-badge" alt="血的教训"></a>
+  <a href="./assets/documents/00-基础指南/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
+  <a href="./assets/documents/00-基础指南/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
+  <a href="./assets/documents/00-基础指南/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
   <a href="./assets/README.md"><img src="https://img.shields.io/badge/📡_信息源-聚合-teal?style=for-the-badge" alt="信息源聚合"></a>
-  <a href="./documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md"><img src="https://img.shields.io/badge/📐_元方法论-递归优化-darkorange?style=for-the-badge" alt="元方法论"></a>
-  <a href="./documents/00-基础指南/编程之道.md"><img src="https://img.shields.io/badge/🧭_编程之道-道法术-orange?style=for-the-badge" alt="编程之道"></a>
-  <a href="./documents/03-实战/README.md"><img src="https://img.shields.io/badge/🎬_实战案例-项目实操-orange?style=for-the-badge" alt="实战案例"></a>
+  <a href="./assets/documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md"><img src="https://img.shields.io/badge/📐_元方法论-递归优化-darkorange?style=for-the-badge" alt="元方法论"></a>
+  <a href="./assets/documents/00-基础指南/编程之道.md"><img src="https://img.shields.io/badge/🧭_编程之道-道法术-orange?style=for-the-badge" alt="编程之道"></a>
+  <a href="./assets/documents/03-实战/README.md"><img src="https://img.shields.io/badge/🎬_实战案例-项目实操-orange?style=for-the-badge" alt="实战案例"></a>
   <a href="./assets/README.md"><img src="https://img.shields.io/badge/🛠️_工具集-速查-teal?style=for-the-badge" alt="工具集"></a>
-  <a href="./prompts/"><img src="https://img.shields.io/badge/💬_提示词-精选-purple?style=for-the-badge" alt="提示词精选"></a>
-  <a href="./skills/"><img src="https://img.shields.io/badge/⚡_Skills-技能大全-forestgreen?style=for-the-badge" alt="skills技能大全"></a>
+  <a href="./assets/prompts/"><img src="https://img.shields.io/badge/💬_提示词-精选-purple?style=for-the-badge" alt="提示词精选"></a>
+  <a href="./assets/skills/"><img src="https://img.shields.io/badge/⚡_Skills-技能大全-forestgreen?style=for-the-badge" alt="skills技能大全"></a>
   <a href="https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203"><img src="https://img.shields.io/badge/📋_提示词-在线表格-blue?style=for-the-badge" alt="提示词在线表格"></a>
   <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"><img src="https://img.shields.io/badge/🔧_系统提示词-仓库-slateblue?style=for-the-badge" alt="系统提示词仓库"></a>
-  <a href="./repo/chat-vault/README.md"><img src="https://img.shields.io/badge/🔐_Chat_Vault-AI会话库-gold?style=for-the-badge" alt="Chat Vault"></a>
+  <a href="./assets/repo/chat-vault/README.md"><img src="https://img.shields.io/badge/🔐_Chat_Vault-AI会话库-gold?style=for-the-badge" alt="Chat Vault"></a>
 </p>
 
 [📋 工具与资源](#tools)
@@ -109,11 +109,11 @@
 
 完全新手？按顺序完成以下步骤：
 
-0. [00-Vibe Coding 哲学原理](./documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md) - 理解核心理念
-1. [01-网络环境配置](./documents/01-入门指南/01-网络环境配置.md) - 配置网络访问
-2. [02-开发环境搭建](./documents/01-入门指南/02-开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
-3. [03-IDE配置](./documents/01-入门指南/03-IDE配置.md) - 配置 VS Code 编辑器
-4. [04-OpenCode-CLI配置](./documents/01-入门指南/04-OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
+0. [00-Vibe Coding 哲学原理](./assets/documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md) - 理解核心理念
+1. [01-网络环境配置](./assets/documents/01-入门指南/01-网络环境配置.md) - 配置网络访问
+2. [02-开发环境搭建](./assets/documents/01-入门指南/02-开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
+3. [03-IDE配置](./assets/documents/01-入门指南/03-IDE配置.md) - 配置 VS Code 编辑器
+4. [04-OpenCode-CLI配置](./assets/documents/01-入门指南/04-OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
 
 </details>
 
@@ -136,7 +136,7 @@
 
 > 一句话：用“生成器/优化器”的递归闭环，构建一个能持续自我优化的 AI 系统。
 >
-> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
+> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./assets/documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
 
 ### 核心角色
 - **α-提示词（生成器）**：一个“母体”提示词，其唯一职责是生成其他提示词或技能。
@@ -166,7 +166,7 @@
 | 🧩 复杂性爆炸 | ✅ 每个模块都是久经考验的轮子 |
 | 🎓 门槛过高 | ✅ 你只需要描述"连接方式" |
 
-👉 [深入了解胶水编程](./documents/00-基础指南/胶水编程.md)
+👉 [深入了解胶水编程](./assets/documents/00-基础指南/胶水编程.md)
 
 </details>
 
@@ -187,7 +187,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心理念**：图形是第一公民，代码是白板的序列化形式。
 
-👉 [深入了解Canvas白板驱动开发](./documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md)
+👉 [深入了解Canvas白板驱动开发](./assets/documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md)
 
 </details>
 
@@ -208,7 +208,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心突破**：AI 不再是孤立的，而是可以互相感知、通讯、控制的集群。
 
-👉 [深入了解AI蜂群协作](./documents/02-方法论/AI蜂群协作-tmux多Agent协作系统.md)
+👉 [深入了解AI蜂群协作](./assets/documents/02-方法论/AI蜂群协作-tmux多Agent协作系统.md)
 
 </details>
 
@@ -229,7 +229,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心理念**：哲学不是空谈，是可落地的工程方法。
 
-👉 [深入了解哲学方法论工具箱](./documents/05-哲学与方法论/README.md)
+👉 [深入了解哲学方法论工具箱](./assets/documents/05-哲学与方法论/README.md)
 
 </details>
 
@@ -310,12 +310,12 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 *   [**第三方系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): 用于学习和参考其他 AI 工具的系统提示词。
 *   [**Skills 制作器**](https://github.com/yusufkaraaslan/Skill_Seekers): 可根据需求生成定制化 Skills 的工具。
 *   [**元提示词**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): 用于生成提示词的高级提示词。
-*   [**通用项目架构模板**](./documents/00-基础指南/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
-*   [**元技能：Skills 的 Skills**](./skills/skills-skills/SKILL.md): 用于生成 Skills 的元技能。
-*   [**SOP 生成 Skill**](./skills/sop-generator/SKILL.md): 将资料/需求整理为可执行 SOP 的技能。
-*   [**tmux快捷键大全**](./documents/02-方法论/tmux快捷键大全.md): tmux 的快捷键参考文档。
-*   [**LazyVim快捷键大全**](./documents/02-方法论/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
-*   [**手机远程 Vibe Coding**](./documents/02-方法论/关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md): 基于 frp 实现手机 SSH 远程控制本地电脑进行 Vibe Coding。
+*   [**通用项目架构模板**](./assets/documents/00-基础指南/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
+*   [**元技能：Skills 的 Skills**](./assets/skills/skills-skills/SKILL.md): 用于生成 Skills 的元技能。
+*   [**SOP 生成 Skill**](./assets/skills/sop-generator/SKILL.md): 将资料/需求整理为可执行 SOP 的技能。
+*   [**tmux快捷键大全**](./assets/documents/02-方法论/tmux快捷键大全.md): tmux 的快捷键参考文档。
+*   [**LazyVim快捷键大全**](./assets/documents/02-方法论/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
+*   [**手机远程 Vibe Coding**](./assets/documents/02-方法论/关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md): 基于 frp 实现手机 SSH 远程控制本地电脑进行 Vibe Coding。
 
 ### 外部教程与资源
 
@@ -329,14 +329,14 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 ### 项目内部文档
 
-*   [**胶水编程 (Glue Coding)**](./documents/00-基础指南/): 软件工程的圣杯与银弹，Vibe Coding 的终极进化形态。
-*   [**Chat Vault**](./repo/chat-vault/): AI 聊天记录保存工具，支持 Codex/Kiro/Gemini/Claude CLI。
-*   [**prompts-library 工具说明**](./repo/prompts-library/): 支持 Excel 与 Markdown 格式互转，包含数百个精选提示词。
+*   [**胶水编程 (Glue Coding)**](./assets/documents/00-基础指南/): 软件工程的圣杯与银弹，Vibe Coding 的终极进化形态。
+*   [**Chat Vault**](./assets/repo/chat-vault/): AI 聊天记录保存工具，支持 Codex/Kiro/Gemini/Claude CLI。
+*   [**prompts-library 工具说明**](./assets/repo/prompts-library/): 支持 Excel 与 Markdown 格式互转，包含数百个精选提示词。
 *   [**编程提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): 适用于 Vibe Coding 流程的专用提示词（云端表格）。
-*   [**系统提示词构建原则**](./documents/00-基础指南/系统提示词构建原则.md): 构建高效 AI 系统提示词的综合指南。
-*   [**开发经验总结**](./documents/00-基础指南/开发经验.md): 变量命名、文件结构、编码规范、架构原则等。
-*   [**通用项目架构模板**](./documents/00-基础指南/通用项目架构模板.md): 多种项目类型的标准目录结构。
-*   [**Augment MCP 配置文档**](./documents/02-方法论/auggie-mcp配置文档.md): Augment 上下文引擎配置说明。
+*   [**系统提示词构建原则**](./assets/documents/00-基础指南/系统提示词构建原则.md): 构建高效 AI 系统提示词的综合指南。
+*   [**开发经验总结**](./assets/documents/00-基础指南/开发经验.md): 变量命名、文件结构、编码规范、架构原则等。
+*   [**通用项目架构模板**](./assets/documents/00-基础指南/通用项目架构模板.md): 多种项目类型的标准目录结构。
+*   [**Augment MCP 配置文档**](./assets/documents/02-方法论/auggie-mcp配置文档.md): Augment 上下文引擎配置说明。
 *   [**系统提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): AI 开发的系统提示词，含多版本开发规范（云端表格）。
 *   [**外部资源（在线表格）**](./assets/README.md): 外部资源的唯一真相源（按类型分表），本地 Markdown 保留为历史参考。
 
@@ -376,12 +376,45 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 │
 ├── assets/                      # 外部资源（指向在线表格）
 │   ├── README.md                # 远程表格索引（唯一真相源）
-│   └── AGENTS.md                # assets/ 目录规则
-│
-├── config/                      # 工具与开发配置
-│   └── .codex/                  # Codex CLI 配置（项目级）
-│       ├── config.toml          # Codex CLI 配置文件
-│       └── AGENTS.md            # Codex/Agent 指南（本目录）
+│   ├── AGENTS.md                # assets/ 目录规则
+│   ├── config/                  # 工具与开发配置
+│   │   └── .codex/              # Codex CLI 配置（项目级）
+│   │       ├── config.toml      # Codex CLI 配置文件
+│   │       └── AGENTS.md        # Codex/Agent 指南（本目录）
+│   ├── documents/               # 文档库
+│   │   ├── 05-哲学与方法论/     # 最高思想纲领与方法论
+│   │   ├── 00-基础指南/         # 核心原则与底层逻辑
+│   │   ├── 01-入门指南/         # 从零开始教程
+│   │   ├── 02-方法论/           # 具体工具与技巧
+│   │   └── 03-实战/             # 项目实战案例
+│   ├── prompts/                 # 提示词库（指向云端表格）
+│   │   ├── README.md            # 在线表格链接
+│   │   └── AGENTS.md            # prompts/ 目录规则
+│   ├── skills/                  # 技能库（扁平化）
+│   │   ├── README.md            # skills 总览与索引
+│   │   ├── AGENTS.md            # skills/ 目录规则
+│   │   ├── skills-skills/       # 元技能核心
+│   │   ├── sop-generator/       # SOP 生成
+│   │   ├── canvas-dev/          # Canvas白板驱动开发
+│   │   └── ...                  # 更多技能
+│   ├── tools/                   # 工具目录（预留）
+│   │   └── .gitkeep             # 保持空目录被 Git 追踪
+│   ├── workflow/                # 工作流模板
+│   │   ├── auto-dev-loop/       # 自动开发循环
+│   │   └── canvas-dev/          # Canvas白板驱动开发
+│   └── repo/                    # 外部工具与依赖镜像（含 Git submodule）
+│       ├── README.md            # 外部工具索引
+│       ├── prompts-library/     # Excel ↔ Markdown 互转工具
+│       ├── chat-vault/          # AI 聊天记录保存工具
+│       ├── Skill_Seekers-development/ # Skills 制作器
+│       ├── html-tools-main/     # HTML 工具集
+│       ├── my-nvim/             # Neovim 配置
+│       ├── MCPlayerTransfer/    # MC 玩家迁移工具
+│       ├── XHS-image-to-PDF-conversion/ # 小红书图片转 PDF
+│       ├── backups/             # 历史备份脚本快照
+│       ├── .tmux/               # oh-my-tmux (submodule)
+│       ├── tmux/                # tmux 源码 (submodule)
+│       └── claude-official-skills/ # Claude 官方 skills (submodule)
 │
 ├── .github/                     # GitHub 配置
 │   ├── workflows/               # CI/CD 工作流
@@ -393,48 +426,6 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 │   ├── SECURITY.md              # 安全政策
 │   ├── FUNDING.yml              # 赞助配置
 │   └── wiki/                    # GitHub Wiki 内容
-│
-├── documents/                   # 文档库
-│   ├── 05-哲学与方法论/        # 最高思想纲领与方法论
-│   ├── 00-基础指南/             # 核心原则与底层逻辑
-│   ├── 01-入门指南/             # 从零开始教程
-│   ├── 02-方法论/               # 具体工具与技巧
-│   ├── 03-实战/                 # 项目实战案例
-│
-├── prompts/                     # 提示词库（指向云端表格）
-│   └── README.md                # 在线表格链接
-│
-├── skills/                      # 技能库（扁平化）
-│   ├── skills-skills/           # 元技能核心
-│   ├── sop-generator/           # SOP 生成
-│   ├── canvas-dev/              # Canvas白板驱动开发
-│   ├── headless-cli/            # 无头模式 AI CLI
-│   ├── postgresql/              # PostgreSQL 专家
-│   ├── timescaledb/             # 时序数据库
-│   ├── ccxt/                    # 交易所 API
-│   ├── tmux-autopilot/          # tmux 自动化
-│   └── ...                      # 更多技能
-│
-├── workflow/                    # 工作流模板
-│   ├── auto-dev-loop/           # 自动开发循环
-│   └── canvas-dev/              # Canvas白板驱动开发
-│
-├── repo/                        # 外部工具与依赖镜像（含 Git submodule）
-│   ├── README.md                # 外部工具索引
-│   ├── prompts-library/         # Excel ↔ Markdown 互转工具
-│   ├── chat-vault/              # AI 聊天记录保存工具
-│   ├── Skill_Seekers-development/ # Skills 制作器
-│   ├── html-tools-main/         # HTML 工具集
-│   ├── my-nvim/                 # Neovim 配置
-│   ├── MCPlayerTransfer/        # MC 玩家迁移工具
-│   ├── XHS-image-to-PDF-conversion/ # 小红书图片转 PDF
-│   ├── backups/                 # 历史备份脚本快照
-│   ├── .tmux/                   # oh-my-tmux (submodule)
-│   ├── tmux/                    # tmux 源码 (submodule)
-│   └── claude-official-skills/  # Claude 官方 skills (submodule)
-│
-├── tools/                       # 工具目录（预留）
-│   └── .gitkeep                 # 保持空目录被 Git 追踪
 ```
 
 </details>
@@ -457,16 +448,15 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 核心资产映射：
 ```
-prompts/
-  00-元提示词/           # 用于生成提示词的高级提示词
-  01-系统提示词/         # 约束 AI 行为边界的系统级提示词
-  02-编程提示词/         # 需求澄清、计划、执行链的核心提示词
-  03-用户提示词/         # 可复用的用户侧提示词
-documents/
+assets/prompts/
+  README.md  # 云端表格入口（元/系统/编程/用户提示词）
+assets/skills/
+  README.md  # skills 总览与索引
+assets/documents/
   00-基础指南/代码组织.md, 00-基础指南/通用项目架构模板.md, 00-基础指南/开发经验.md, 00-基础指南/系统提示词构建原则.md 等知识库
 assets/
   README.md  # 外部资源（在线表格）唯一真相源入口
-repo/backups/
+assets/repo/backups/
   一键备份.sh, 快速备份.py  # 本地/远端快照脚本
 ```
 
@@ -487,8 +477,8 @@ graph TB
   subgraph ingest_layer[数据接入与采集层]
     excel_raw[prompt_excel/*.xlsx]
     md_raw[prompt_docs/外部MD输入]
-    excel_to_docs[repo/prompts-library/scripts/excel_to_docs.py]
-    docs_to_excel[repo/prompts-library/scripts/docs_to_excel.py]
+    excel_to_docs[assets/repo/prompts-library/scripts/excel_to_docs.py]
+    docs_to_excel[assets/repo/prompts-library/scripts/docs_to_excel.py]
     ingest_bus[标准化数据帧]
     ext_sheet --> excel_raw
     ext_md --> md_raw
@@ -508,11 +498,11 @@ graph TB
   end
 
   subgraph consume_layer[执行与消费层]
-    artifacts_md --> catalog_coding[prompts/编程提示词]
-    artifacts_md --> catalog_system[prompts/系统提示词]
-    artifacts_md --> catalog_meta[prompts/00-元提示词]
-    artifacts_md --> catalog_user[prompts/03-用户提示词]
-    artifacts_md --> docs_repo[documents/*]
+    artifacts_md --> catalog_coding[prompts(在线)/编程提示词]
+    artifacts_md --> catalog_system[prompts(在线)/系统提示词]
+    artifacts_md --> catalog_meta[prompts(在线)/元提示词]
+    artifacts_md --> catalog_user[prompts(在线)/用户提示词]
+    artifacts_md --> docs_repo[assets/documents/*]
     artifacts_md --> new_consumer[预留：其他下游渠道]
     catalog_coding --> ai_flow[AI 结对编程流程]
     ai_flow --> deliverables[项目上下文 / 计划 / 代码产出]
@@ -526,9 +516,9 @@ graph TB
 
   subgraph infra_layer[基础设施与横切能力层]
     git[Git 版本控制] --> orchestrator
-    backups[repo/backups/一键备份.sh · repo/backups/快速备份.py] --> artifacts_md
+    backups[assets/repo/backups/一键备份.sh · assets/repo/backups/快速备份.py] --> artifacts_md
     deps[requirements.txt · scripts/requirements.txt] --> orchestrator
-    config[repo/prompts-library/scripts/config.yaml] --> orchestrator
+    config[assets/repo/prompts-library/scripts/config.yaml] --> orchestrator
     monitor[预留：日志与监控] --> orchestrator
   end
 ```
