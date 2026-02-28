@@ -31,19 +31,19 @@
 <!-- 资源直达 - 按重要性分组 -->
 <!-- 🔴 核心理念 (红色系) -->
 <p>
-  <a href="./assets/documents/05-哲学与方法论/README.md"><img src="https://img.shields.io/badge/🔮_哲学方法论-底层协议-purple?style=for-the-badge" alt="哲学与方法论"></a>
-  <a href="./assets/documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md"><img src="https://img.shields.io/badge/🧠_核心哲学-必读-crimson?style=for-the-badge" alt="核心哲学"></a>
-  <a href="./assets/documents/00-基础指南/胶水编程.md"><img src="https://img.shields.io/badge/🧬_胶水编程-银弹-red?style=for-the-badge" alt="胶水编程"></a>
-  <a href="./assets/documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md"><img src="https://img.shields.io/badge/🎨_Canvas白板-图形驱动-orange?style=for-the-badge" alt="Canvas白板驱动开发"></a>
-  <a href="./assets/documents/01-入门指南/README.md"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
-  <a href="./assets/documents/00-基础指南/血的教训.md"><img src="https://img.shields.io/badge/🩸_血的教训-必看-red?style=for-the-badge" alt="血的教训"></a>
-  <a href="./assets/documents/00-基础指南/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
-  <a href="./assets/documents/00-基础指南/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
-  <a href="./assets/documents/00-基础指南/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
+  <a href="./assets/documents/principles/philosophy/README.md"><img src="https://img.shields.io/badge/🔮_哲学方法论-底层协议-purple?style=for-the-badge" alt="哲学与方法论"></a>
+  <a href="./assets/documents/guides/getting-started/Vibe%20Coding%20哲学原理.md"><img src="https://img.shields.io/badge/🧠_核心哲学-必读-crimson?style=for-the-badge" alt="核心哲学"></a>
+  <a href="./assets/documents/principles/fundamentals/胶水编程.md"><img src="https://img.shields.io/badge/🧬_胶水编程-银弹-red?style=for-the-badge" alt="胶水编程"></a>
+  <a href="./assets/documents/guides/playbook/图形化AI协作-Canvas白板驱动开发.md"><img src="https://img.shields.io/badge/🎨_Canvas白板-图形驱动-orange?style=for-the-badge" alt="Canvas白板驱动开发"></a>
+  <a href="./assets/documents/guides/getting-started/README.md"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
+  <a href="./assets/documents/principles/fundamentals/血的教训.md"><img src="https://img.shields.io/badge/🩸_血的教训-必看-red?style=for-the-badge" alt="血的教训"></a>
+  <a href="./assets/documents/principles/fundamentals/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
+  <a href="./assets/documents/principles/fundamentals/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
+  <a href="./assets/documents/principles/fundamentals/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
   <a href="./assets/README.md"><img src="https://img.shields.io/badge/📡_信息源-聚合-teal?style=for-the-badge" alt="信息源聚合"></a>
-  <a href="./assets/documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md"><img src="https://img.shields.io/badge/📐_元方法论-递归优化-darkorange?style=for-the-badge" alt="元方法论"></a>
-  <a href="./assets/documents/00-基础指南/编程之道.md"><img src="https://img.shields.io/badge/🧭_编程之道-道法术-orange?style=for-the-badge" alt="编程之道"></a>
-  <a href="./assets/documents/03-实战/README.md"><img src="https://img.shields.io/badge/🎬_实战案例-项目实操-orange?style=for-the-badge" alt="实战案例"></a>
+  <a href="./assets/documents/principles/fundamentals/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md"><img src="https://img.shields.io/badge/📐_元方法论-递归优化-darkorange?style=for-the-badge" alt="元方法论"></a>
+  <a href="./assets/documents/principles/fundamentals/编程之道.md"><img src="https://img.shields.io/badge/🧭_编程之道-道法术-orange?style=for-the-badge" alt="编程之道"></a>
+  <a href="./assets/documents/case-studies/README.md"><img src="https://img.shields.io/badge/🎬_实战案例-项目实操-orange?style=for-the-badge" alt="实战案例"></a>
   <a href="./assets/README.md"><img src="https://img.shields.io/badge/🛠️_工具集-速查-teal?style=for-the-badge" alt="工具集"></a>
   <a href="./assets/prompts/"><img src="https://img.shields.io/badge/💬_提示词-精选-purple?style=for-the-badge" alt="提示词精选"></a>
   <a href="./assets/skills/"><img src="https://img.shields.io/badge/⚡_Skills-技能大全-forestgreen?style=for-the-badge" alt="skills技能大全"></a>
@@ -109,11 +109,11 @@
 
 完全新手？按顺序完成以下步骤：
 
-0. [00-Vibe Coding 哲学原理](./assets/documents/01-入门指南/00-Vibe%20Coding%20哲学原理.md) - 理解核心理念
-1. [01-网络环境配置](./assets/documents/01-入门指南/01-网络环境配置.md) - 配置网络访问
-2. [02-开发环境搭建](./assets/documents/01-入门指南/02-开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
-3. [03-IDE配置](./assets/documents/01-入门指南/03-IDE配置.md) - 配置 VS Code 编辑器
-4. [04-OpenCode-CLI配置](./assets/documents/01-入门指南/04-OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
+0. [Vibe Coding 哲学原理](./assets/documents/guides/getting-started/Vibe%20Coding%20哲学原理.md) - 理解核心理念
+1. [网络环境配置](./assets/documents/guides/getting-started/网络环境配置.md) - 配置网络访问
+2. [开发环境搭建](./assets/documents/guides/getting-started/开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
+3. [IDE配置](./assets/documents/guides/getting-started/IDE配置.md) - 配置 VS Code 编辑器
+4. [OpenCode-CLI配置](./assets/documents/guides/getting-started/OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
 
 </details>
 
@@ -136,7 +136,7 @@
 
 > 一句话：用“生成器/优化器”的递归闭环，构建一个能持续自我优化的 AI 系统。
 >
-> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./assets/documents/00-基础指南/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
+> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./assets/documents/principles/fundamentals/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
 
 ### 核心角色
 - **α-提示词（生成器）**：一个“母体”提示词，其唯一职责是生成其他提示词或技能。
@@ -166,7 +166,7 @@
 | 🧩 复杂性爆炸 | ✅ 每个模块都是久经考验的轮子 |
 | 🎓 门槛过高 | ✅ 你只需要描述"连接方式" |
 
-👉 [深入了解胶水编程](./assets/documents/00-基础指南/胶水编程.md)
+👉 [深入了解胶水编程](./assets/documents/principles/fundamentals/胶水编程.md)
 
 </details>
 
@@ -187,7 +187,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心理念**：图形是第一公民，代码是白板的序列化形式。
 
-👉 [深入了解Canvas白板驱动开发](./assets/documents/02-方法论/图形化AI协作-Canvas白板驱动开发.md)
+👉 [深入了解Canvas白板驱动开发](./assets/documents/guides/playbook/图形化AI协作-Canvas白板驱动开发.md)
 
 </details>
 
@@ -208,7 +208,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心突破**：AI 不再是孤立的，而是可以互相感知、通讯、控制的集群。
 
-👉 [深入了解AI蜂群协作](./assets/documents/02-方法论/AI蜂群协作-tmux多Agent协作系统.md)
+👉 [深入了解AI蜂群协作](./assets/documents/guides/playbook/AI蜂群协作-tmux多Agent协作系统.md)
 
 </details>
 
@@ -229,7 +229,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 **核心理念**：哲学不是空谈，是可落地的工程方法。
 
-👉 [深入了解哲学方法论工具箱](./assets/documents/05-哲学与方法论/README.md)
+👉 [深入了解哲学方法论工具箱](./assets/documents/principles/philosophy/README.md)
 
 </details>
 
@@ -241,6 +241,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 ## 🧭 经验
 
 * **状态，变换；数据，函数；输入，处理，输出；抽象/收敛，展开；可解释性；层级；过程；全称/特称，肯定/否定**
+* **明确任务中的：目的，对象，约束**
 * **人下 AI 上**
 * **一切问题问 AI**
 * **目的主导：开发过程中的一切动作围绕"目的"展开**
@@ -310,12 +311,12 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 *   [**第三方系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): 用于学习和参考其他 AI 工具的系统提示词。
 *   [**Skills 制作器**](https://github.com/yusufkaraaslan/Skill_Seekers): 可根据需求生成定制化 Skills 的工具。
 *   [**元提示词**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): 用于生成提示词的高级提示词。
-*   [**通用项目架构模板**](./assets/documents/00-基础指南/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
+*   [**通用项目架构模板**](./assets/documents/principles/fundamentals/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
 *   [**元技能：Skills 的 Skills**](./assets/skills/skills-skills/SKILL.md): 用于生成 Skills 的元技能。
 *   [**SOP 生成 Skill**](./assets/skills/sop-generator/SKILL.md): 将资料/需求整理为可执行 SOP 的技能。
-*   [**tmux快捷键大全**](./assets/documents/02-方法论/tmux快捷键大全.md): tmux 的快捷键参考文档。
-*   [**LazyVim快捷键大全**](./assets/documents/02-方法论/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
-*   [**手机远程 Vibe Coding**](./assets/documents/02-方法论/关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md): 基于 frp 实现手机 SSH 远程控制本地电脑进行 Vibe Coding。
+*   [**tmux快捷键大全**](./assets/documents/guides/playbook/tmux快捷键大全.md): tmux 的快捷键参考文档。
+*   [**LazyVim快捷键大全**](./assets/documents/guides/playbook/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
+*   [**手机远程 Vibe Coding**](./assets/documents/guides/playbook/关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md): 基于 frp 实现手机 SSH 远程控制本地电脑进行 Vibe Coding。
 
 ### 外部教程与资源
 
@@ -329,14 +330,14 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 
 ### 项目内部文档
 
-*   [**胶水编程 (Glue Coding)**](./assets/documents/00-基础指南/): 软件工程的圣杯与银弹，Vibe Coding 的终极进化形态。
+*   [**胶水编程 (Glue Coding)**](./assets/documents/principles/fundamentals/): 软件工程的圣杯与银弹，Vibe Coding 的终极进化形态。
 *   [**Chat Vault**](./assets/repo/chat-vault/): AI 聊天记录保存工具，支持 Codex/Kiro/Gemini/Claude CLI。
 *   [**prompts-library 工具说明**](./assets/repo/prompts-library/): 支持 Excel 与 Markdown 格式互转，包含数百个精选提示词。
 *   [**编程提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): 适用于 Vibe Coding 流程的专用提示词（云端表格）。
-*   [**系统提示词构建原则**](./assets/documents/00-基础指南/系统提示词构建原则.md): 构建高效 AI 系统提示词的综合指南。
-*   [**开发经验总结**](./assets/documents/00-基础指南/开发经验.md): 变量命名、文件结构、编码规范、架构原则等。
-*   [**通用项目架构模板**](./assets/documents/00-基础指南/通用项目架构模板.md): 多种项目类型的标准目录结构。
-*   [**Augment MCP 配置文档**](./assets/documents/02-方法论/auggie-mcp配置文档.md): Augment 上下文引擎配置说明。
+*   [**系统提示词构建原则**](./assets/documents/principles/fundamentals/系统提示词构建原则.md): 构建高效 AI 系统提示词的综合指南。
+*   [**开发经验总结**](./assets/documents/principles/fundamentals/开发经验.md): 变量命名、文件结构、编码规范、架构原则等。
+*   [**通用项目架构模板**](./assets/documents/principles/fundamentals/通用项目架构模板.md): 多种项目类型的标准目录结构。
+*   [**Augment MCP 配置文档**](./assets/documents/guides/playbook/auggie-mcp配置文档.md): Augment 上下文引擎配置说明。
 *   [**系统提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): AI 开发的系统提示词，含多版本开发规范（云端表格）。
 *   [**外部资源（在线表格）**](./assets/README.md): 外部资源的唯一真相源（按类型分表），本地 Markdown 保留为历史参考。
 
@@ -382,11 +383,13 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 │   │       ├── config.toml      # Codex CLI 配置文件
 │   │       └── AGENTS.md        # Codex/Agent 指南（本目录）
 │   ├── documents/               # 文档库
-│   │   ├── 05-哲学与方法论/     # 最高思想纲领与方法论
-│   │   ├── 00-基础指南/         # 核心原则与底层逻辑
-│   │   ├── 01-入门指南/         # 从零开始教程
-│   │   ├── 02-方法论/           # 具体工具与技巧
-│   │   └── 03-实战/             # 项目实战案例
+│   │   ├── principles/          # 原则与思想（fundamentals + philosophy）
+│   │   │   ├── fundamentals/    # 原 00-基础指南
+│   │   │   └── philosophy/      # 原 05-哲学与方法论
+│   │   ├── guides/              # 入门与方法（getting-started + playbook）
+│   │   │   ├── getting-started/ # 原 01-入门指南
+│   │   │   └── playbook/        # 原 02-方法论
+│   │   └── case-studies/        # 原 03-实战
 │   ├── prompts/                 # 提示词库（指向云端表格）
 │   │   ├── README.md            # 在线表格链接
 │   │   └── AGENTS.md            # prompts/ 目录规则
@@ -453,7 +456,7 @@ assets/prompts/
 assets/skills/
   README.md  # skills 总览与索引
 assets/documents/
-  00-基础指南/代码组织.md, 00-基础指南/通用项目架构模板.md, 00-基础指南/开发经验.md, 00-基础指南/系统提示词构建原则.md 等知识库
+  principles/fundamentals/*, principles/philosophy/*, guides/*, case-studies/* 等知识库
 assets/
   README.md  # 外部资源（在线表格）唯一真相源入口
 assets/repo/backups/
