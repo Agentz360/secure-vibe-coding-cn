@@ -31,29 +31,21 @@
 <!-- 资源直达 - 按重要性分组 -->
 <!-- 🔴 核心理念 (红色系) -->
 <p>
-  <a href="./assets/documents/principles/philosophy/README.md"><img src="https://img.shields.io/badge/🔮_哲学方法论-底层协议-purple?style=for-the-badge" alt="哲学与方法论"></a>
-  <a href="./assets/documents/guides/getting-started/Vibe%20Coding%20哲学原理.md"><img src="https://img.shields.io/badge/🧠_核心哲学-必读-crimson?style=for-the-badge" alt="核心哲学"></a>
-  <a href="./assets/documents/principles/fundamentals/胶水编程.md"><img src="https://img.shields.io/badge/🧬_胶水编程-银弹-red?style=for-the-badge" alt="胶水编程"></a>
-  <a href="./assets/documents/guides/playbook/图形化AI协作-Canvas白板驱动开发.md"><img src="https://img.shields.io/badge/🎨_Canvas白板-图形驱动-orange?style=for-the-badge" alt="Canvas白板驱动开发"></a>
-  <a href="./assets/documents/guides/getting-started/README.md"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
-  <a href="./assets/documents/principles/fundamentals/血的教训.md"><img src="https://img.shields.io/badge/🩸_血的教训-必看-red?style=for-the-badge" alt="血的教训"></a>
-  <a href="./assets/documents/principles/fundamentals/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
-  <a href="./assets/documents/principles/fundamentals/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
-  <a href="./assets/documents/principles/fundamentals/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
-  <a href="./assets/README.md"><img src="https://img.shields.io/badge/📡_信息源-聚合-teal?style=for-the-badge" alt="信息源聚合"></a>
-  <a href="./assets/documents/principles/fundamentals/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md"><img src="https://img.shields.io/badge/📐_元方法论-递归优化-darkorange?style=for-the-badge" alt="元方法论"></a>
-  <a href="./assets/documents/principles/fundamentals/编程之道.md"><img src="https://img.shields.io/badge/🧭_编程之道-道法术-orange?style=for-the-badge" alt="编程之道"></a>
-  <a href="./assets/documents/case-studies/README.md"><img src="https://img.shields.io/badge/🎬_实战案例-项目实操-orange?style=for-the-badge" alt="实战案例"></a>
-  <a href="./assets/README.md"><img src="https://img.shields.io/badge/🛠️_工具集-速查-teal?style=for-the-badge" alt="工具集"></a>
-  <a href="./assets/prompts/"><img src="https://img.shields.io/badge/💬_提示词-精选-purple?style=for-the-badge" alt="提示词精选"></a>
+	  <a href="./assets/documents/principles/philosophy/README.md"><img src="https://img.shields.io/badge/🔮_哲学方法论-底层协议-purple?style=for-the-badge" alt="哲学与方法论"></a>
+	  <a href="./assets/documents/principles/philosophy/理解世界、描述变化、整理知识的一套较小框架.md"><img src="https://img.shields.io/badge/🧱_概念框架-必读-purple?style=for-the-badge" alt="概念框架"></a>
+	  <a href="./assets/documents/guides/getting-started/Vibe%20Coding%20哲学原理.md"><img src="https://img.shields.io/badge/🧠_核心哲学-必读-crimson?style=for-the-badge" alt="核心哲学"></a>
+	  <a href="./assets/documents/guides/getting-started/README.md"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
+	  <a href="./assets/documents/principles/fundamentals/问题求解能力.md"><img src="https://img.shields.io/badge/🧩_问题求解-必读-purple?style=for-the-badge" alt="问题求解能力"></a>
+	  <a href="./assets/documents/principles/fundamentals/语言层要素.md"><img src="https://img.shields.io/badge/📊_语言层要素-12层框架-gold?style=for-the-badge" alt="语言层要素"></a>
+	  <a href="./assets/documents/principles/fundamentals/常见坑汇总.md"><img src="https://img.shields.io/badge/🕳️_常见坑-避坑指南-yellow?style=for-the-badge" alt="常见坑汇总"></a>
+	  <a href="./assets/documents/principles/fundamentals/强前置条件约束.md"><img src="https://img.shields.io/badge/🚫_硬约束-铁律-darkred?style=for-the-badge" alt="强前置条件约束"></a>
+	  <a href="./assets/README.md"><img src="https://img.shields.io/badge/📡_资源-聚合-teal?style=for-the-badge" alt="资源聚合"></a>
   <a href="./assets/skills/"><img src="https://img.shields.io/badge/⚡_Skills-技能大全-forestgreen?style=for-the-badge" alt="skills技能大全"></a>
   <a href="https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203"><img src="https://img.shields.io/badge/📋_提示词-在线表格-blue?style=for-the-badge" alt="提示词在线表格"></a>
-  <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"><img src="https://img.shields.io/badge/🔧_系统提示词-仓库-slateblue?style=for-the-badge" alt="系统提示词仓库"></a>
-  <a href="./assets/repo/chat-vault/README.md"><img src="https://img.shields.io/badge/🔐_Chat_Vault-AI会话库-gold?style=for-the-badge" alt="Chat Vault"></a>
 </p>
 
 [📋 工具与资源](#tools)
-[🚀 从零开始](#getting-started)
+[⚡ 1 分钟快速开始](#getting-started)
 [🎯 原仓库翻译](#translation)
 [⚙️ 完整设置流程](#setup)
 [📞 联系方式](#contact)
@@ -66,11 +58,9 @@
 
 ## 🎲 前言
 
-**这是一个不断生长和自我否定的项目，当下的一切经验和能力都可能因 AI 能力的变化而失去意义，所以请时刻保持以 AI 为主的思维，重视这次宇宙级的变革，所有的经验都可能失效，辩证的看🙏🙏🙏**，**Vibe Coding** 是一个与 AI 结对编程的终极工作流程，旨在帮助开发者丝滑地将想法变为现实。本指南详细介绍了从项目构思、技术选型、实施规划到具体开发、调试和扩展的全过程，强调以**规划驱动**和**模块化**，**索引构建**为核心（受限于模型上下文窗口而生成的解决策略），避免让 AI 失控导致项目混乱，Vibe Coding（氛围编程）是一种以自然语言驱动、让LLM生成大部分代码的开发方式，主张“先沉浸式做出能跑的东西”，以极低门槛快速产出原型但也伴随可控性与可靠性风险，由由计算机科学家 [Andrej Karpathy](https://x.com/karpathy) 首次提出。
+**这是一个不断生长和自我否定的项目，当下的一切经验和能力都可能因 AI 能力的变化而失去意义，所以请时刻保持以 AI 为主的思维，重视这次宇宙级的变革，所有的经验都可能失效，辩证的看🙏🙏🙏**，**Vibe Coding** 是一个与 AI 结对编程的终极工作流程，旨在帮助开发者丝滑地将想法变为现实。本指南详细介绍了从项目构思、技术选型、实施规划到具体开发、调试和扩展的全过程，强调以**规划驱动**和**模块化**，**索引构建**为核心（受限于模型上下文窗口而生成的解决策略），避免让 AI 失控导致项目混乱，Vibe Coding（氛围编程）是一种以自然语言驱动、让LLM生成大部分代码的开发方式，主张“先沉浸式做出能跑的东西”，以极低门槛快速产出原型但也伴随可控性与可靠性风险，由计算机科学家 [Andrej Karpathy](https://x.com/karpathy) 首次提出。
 
-> **核心理念**: *规划就是一切。* 谨慎让 AI 全局自主规划，否则你的代码库会变成一团无法管理的乱麻。
-
-**注意**：以下经验分享并非普遍适用，请在具体实践中结合场景，辩证采纳（点击标题可以展开收起内容）
+> **注意**：以下经验分享并非普遍适用，请在具体实践中结合场景，辩证采纳（点击标题可以展开收起内容）
 
 ---
 
@@ -103,17 +93,22 @@
 
 **第 2 步**：跟着 AI 的指导，把想法变成现实 🚀
 
-**就这么简单！** 更多内容（从零开始）请继续阅读 👇
+**就这么简单！** 更多内容（新手从零开始）请继续阅读 👇
 
-## 🚀 从零开始
+### 🚀 从零开始
+
+> **基础前提（建议先看）**：为了让后续所有“方法/步骤/工作流”可被稳定复用，本项目默认使用一套极简概念框架来理解世界、描述变化与整理知识：对象 → 状态 → 快照 → 序列 → 过程 → 变换 → 同一/差异 → 关系。  
+> 阅读：[`理解世界、描述变化、整理知识的一套较小框架`](./assets/documents/principles/philosophy/理解世界、描述变化、整理知识的一套较小框架.md)
 
 完全新手？按顺序完成以下步骤：
 
-0. [Vibe Coding 哲学原理](./assets/documents/guides/getting-started/Vibe%20Coding%20哲学原理.md) - 理解核心理念
-1. [网络环境配置](./assets/documents/guides/getting-started/网络环境配置.md) - 配置网络访问
-2. [开发环境搭建](./assets/documents/guides/getting-started/开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
-3. [IDE配置](./assets/documents/guides/getting-started/IDE配置.md) - 配置 VS Code 编辑器
-4. [OpenCode-CLI配置](./assets/documents/guides/getting-started/OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
+0. [问题求解能力](./assets/documents/principles/fundamentals/问题求解能力.md) - “目标-现状-差距-标准”与“目标-约束-对象-路径”的极简框架
+1. [Vibe Coding 哲学原理](./assets/documents/guides/getting-started/Vibe%20Coding%20哲学原理.md) - 理解核心理念
+2. [网络环境配置](./assets/documents/guides/getting-started/网络环境配置.md) - 配置网络访问
+3. [开发环境搭建](./assets/documents/guides/getting-started/开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
+4. [IDE配置](./assets/documents/guides/getting-started/IDE配置.md) - 配置 VS Code 编辑器
+5. [OpenCode-CLI配置](./assets/documents/guides/getting-started/OpenCode-CLI配置.md) - 免费 AI CLI 工具，支持 GLM-4.7/MiniMax M2.1 等模型
+6. [数据集导向数据服务模板](./assets/documents/principles/fundamentals/数据集导向数据服务模板.md) - 以 dataset/contract/registry/runtime 为核心的数据采集服务通用架构模板
 
 </details>
 
@@ -121,6 +116,10 @@
 <summary><strong>🧪 实验性方法</strong></summary>
 
 ## 🧪 实验性方法
+
+> **基础前提**：本节中的“实验性范式/方法论工具箱”默认共享同一套概念框架（对象/状态/快照/序列/过程/变换/同一-差异/关系），并默认以 Harness Engineering 的闭环与评估机制作为可靠性来源，否则术语会漂移、实践会失焦。  
+> 阅读：[`Harness Engineering 的本质拆解`](./assets/documents/principles/fundamentals/Harness%20Engineering%20的本质拆解.md)  
+> 阅读：[`理解世界、描述变化、整理知识的一套较小框架`](./assets/documents/principles/philosophy/理解世界、描述变化、整理知识的一套较小框架.md)
 
 > 下面是一些“可能随时推翻重写”的实验性方法与范式：先看一眼，觉得对你有用再深入。
 
@@ -339,6 +338,7 @@ Canvas方式：**代码 ⇄ 白板 ⇄ AI ⇄ 人类**，白板成为单一真�
 *   [**通用项目架构模板**](./assets/documents/principles/fundamentals/通用项目架构模板.md): 多种项目类型的标准目录结构。
 *   [**Augment MCP 配置文档**](./assets/documents/guides/playbook/auggie-mcp配置文档.md): Augment 上下文引擎配置说明。
 *   [**系统提示词集合**](https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203): AI 开发的系统提示词，含多版本开发规范（云端表格）。
+*   [**TradeCat Sheets API 使用说明**](./assets/documents/guides/playbook/tradecat-sheets-api-usage.md): 把公开 Google Sheet 当作 API 注册表与数据面（Data Plane），供 Agent/服务端消费结构化 JSON。
 *   [**外部资源（在线表格）**](./assets/README.md): 外部资源的唯一真相源（按类型分表），本地 Markdown 保留为历史参考。
 
 ---
